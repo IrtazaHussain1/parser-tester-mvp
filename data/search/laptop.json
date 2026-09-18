@@ -1,0 +1,1087 @@
+{
+  "slug": "laptop",
+  "searchMetadata": {
+    "query": "laptop",
+    "totalResults": 70000,
+    "resultsDisplayed": 12,
+    "searchUrl": "https://www.shopfixture.test/s?k=laptop",
+    "searchType": "keyword"
+  },
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 20,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=laptop&page=2"
+  },
+  "breadcrumbs": [
+    {
+      "name": "Electronics",
+      "url": "https://www.shopfixture.test/electronics"
+    },
+    {
+      "name": "Computers & Accessories",
+      "url": "https://www.shopfixture.test/computers"
+    },
+    {
+      "name": "Laptops",
+      "url": "https://www.shopfixture.test/s?k=laptops"
+    },
+    {
+      "name": "laptop",
+      "url": "https://www.shopfixture.test/s?k=laptop"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "searchTerm": "gaming laptop",
+      "url": "https://www.shopfixture.test/s?k=gaming%20laptop"
+    },
+    {
+      "searchTerm": "macbook air",
+      "url": "https://www.shopfixture.test/s?k=macbook%20air"
+    },
+    {
+      "searchTerm": "16gb ram laptop",
+      "url": "https://www.shopfixture.test/s?k=16gb%20ram%20laptop"
+    },
+    {
+      "searchTerm": "student laptop",
+      "url": "https://www.shopfixture.test/s?k=student%20laptop"
+    },
+    {
+      "searchTerm": "thinkpad",
+      "url": "https://www.shopfixture.test/s?k=thinkpad"
+    },
+    {
+      "searchTerm": "2 in 1 laptop",
+      "url": "https://www.shopfixture.test/s?k=2%20in%201%20laptop"
+    },
+    {
+      "searchTerm": "chromebook",
+      "url": "https://www.shopfixture.test/s?k=chromebook"
+    },
+    {
+      "searchTerm": "oled laptop",
+      "url": "https://www.shopfixture.test/s?k=oled%20laptop"
+    },
+    {
+      "searchTerm": "laptop i7",
+      "url": "https://www.shopfixture.test/s?k=laptop%20i7"
+    },
+    {
+      "searchTerm": "business laptop",
+      "url": "https://www.shopfixture.test/s?k=business%20laptop"
+    }
+  ],
+  "products": [
+    {
+      "name": "HP 15 Notebook Laptop, 15.6\" Full HD Display, Intel Core i5-1135G7 Processor, 16GB DDR4 RAM, 1TB PCIe SSD, USB Type-C, Webcam, Wi-Fi, Windows 11 Home, Silver",
+      "productId": "B0LAP0101",
+      "url": "https://www.shopfixture.test/dp/B0LAP0101",
+      "brand": "HP",
+      "price": 478,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=HP%20Laptop",
+          "altText": "HP 15 Notebook Laptop, 15.6\" Full HD Display, Intel Core i5-1135G7 Processor, 16GB DDR4 RAM, 1TB PCIe SSD, USB Type-C, Webcam, Wi-Fi, Windows 11 Home, Silver"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 91,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Fri, Sep 26 · Or fastest delivery Tomorrow"
+      },
+      "availabilityMessage": "Only 17 left in stock - order soon.",
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Overall Pick"
+        }
+      ],
+      "promotions": [
+        {
+          "type": "more_buying_choices",
+          "description": "More Buying Choices: $399.99 (19 used & new offers)"
+        }
+      ],
+      "variants": {
+        "variantCount": 7,
+        "visibleOptions": [
+          {
+            "type": "capacity",
+            "value": "16GB / 1TB"
+          },
+          {
+            "type": "capacity",
+            "value": "8GB / 512GB"
+          }
+        ]
+      },
+      "description": "HP laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "HP side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "HP ports"
+        }
+      ]
+    },
+    {
+      "name": "Dell Inspiron 3000 Series 3520 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1155G7, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, SD Card Reader, Wi-Fi, Windows 11 Home, Black",
+      "productId": "B0LAP0102",
+      "url": "https://www.shopfixture.test/dp/B0LAP0102",
+      "brand": "Dell",
+      "price": 489.45,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Dell%20Laptop",
+          "altText": "Dell Inspiron 3000 Series 3520 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1155G7, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, SD Card Reader, Wi-Fi, Windows 11 Home, Black"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 35,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Mon, Sep 29"
+      },
+      "availabilityMessage": "Only 4 left in stock - order soon.",
+      "promotions": [
+        {
+          "type": "more_buying_choices",
+          "description": "More Buying Choices: $365.95 (27+ used & new offers)"
+        }
+      ],
+      "description": "Dell laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "Dell side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "Dell ports"
+        }
+      ]
+    },
+    {
+      "name": "ASUS Vivobook Laptop, 14\" FHD Display, i3-1215U, 16GB RAM, 1TB SSD, Wi-Fi 6, HDMI, Webcam, Touchpad, Windows 11 Home, Blue",
+      "productId": "B0LAP0103",
+      "url": "https://www.shopfixture.test/dp/B0LAP0103",
+      "brand": "ASUS",
+      "price": 409.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=ASUS%20Laptop",
+          "altText": "ASUS Vivobook Laptop, 14\" FHD Display, i3-1215U, 16GB RAM, 1TB SSD, Wi-Fi 6, HDMI, Webcam, Touchpad, Windows 11 Home, Blue"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 14 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 2,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Sep 27 - 28 · Or fastest delivery Mon, Sep 29"
+      },
+      "availabilityMessage": "Only 2 left in stock - order soon.",
+      "variants": {
+        "variantCount": 6,
+        "visibleOptions": [
+          {
+            "type": "capacity",
+            "value": "16GB / 1TB"
+          },
+          {
+            "type": "capacity",
+            "value": "8GB / 512GB"
+          }
+        ]
+      },
+      "description": "ASUS laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "ASUS side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "ASUS ports"
+        }
+      ]
+    },
+    {
+      "name": "HP Pavilion x360 2-in-1 Laptop, 14\" FHD Touchscreen, Intel Core i5-1235U, 16GB RAM, 1TB SSD, Webcam, HDMI, FP Reader, Wi-Fi 6, Stylus Pen, Windows 11 Home",
+      "productId": "B0LAP0104",
+      "url": "https://www.shopfixture.test/dp/B0LAP0104",
+      "brand": "HP",
+      "price": 709.18,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=HP%20Laptop",
+          "altText": "HP Pavilion x360 2-in-1 Laptop, 14\" FHD Touchscreen, Intel Core i5-1235U, 16GB RAM, 1TB SSD, Webcam, HDMI, FP Reader, Wi-Fi 6, Stylus Pen, Windows 11 Home"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "2 in 1 Laptops",
+      "keyFeatures": [
+        "Display Size: 14 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 63,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Sep 26 - 28 · Or fastest delivery Tomorrow"
+      },
+      "availabilityMessage": "Only 3 left in stock - order soon.",
+      "promotions": [
+        {
+          "type": "more_buying_choices",
+          "description": "More Buying Choices: $344.00 (5+ used & new offers)"
+        }
+      ],
+      "variants": {
+        "variantCount": 4,
+        "visibleOptions": [
+          {
+            "type": "capacity",
+            "value": "16GB / 1TB"
+          },
+          {
+            "type": "capacity",
+            "value": "8GB / 512GB"
+          }
+        ]
+      },
+      "description": "HP laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "HP side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "HP ports"
+        }
+      ]
+    },
+    {
+      "name": "HP Essential Laptop, 15.6\" FHD Display, Intel Core i3-1215U Processor, 16GB RAM, 1TB SSD, Webcam, Wi-Fi 6, HDMI, Windows 11 Home, Gray",
+      "productId": "B0LAP0105",
+      "url": "https://www.shopfixture.test/dp/B0LAP0105",
+      "brand": "HP",
+      "price": 399,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=HP%20Laptop",
+          "altText": "HP Essential Laptop, 15.6\" FHD Display, Intel Core i3-1215U Processor, 16GB RAM, 1TB SSD, Webcam, Wi-Fi 6, HDMI, Windows 11 Home, Gray"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.7,
+        "reviewCount": 12,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Oct 1"
+      },
+      "availabilityMessage": "Only 4 left in stock - order soon.",
+      "badges": [
+        {
+          "type": "deal",
+          "label": "Amazon's Choice"
+        }
+      ],
+      "promotions": [
+        {
+          "type": "more_buying_choices",
+          "description": "More Buying Choices: $365.99 (13 used & new offers)"
+        }
+      ],
+      "variants": {
+        "variantCount": 3,
+        "visibleOptions": [
+          {
+            "type": "capacity",
+            "value": "16GB / 1TB"
+          },
+          {
+            "type": "capacity",
+            "value": "8GB / 512GB"
+          }
+        ]
+      },
+      "description": "HP laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "HP side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "HP ports"
+        }
+      ]
+    },
+    {
+      "name": "Dell Inspiron 15 3000 Series 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1035G1, 16GB DDR4 RAM, 1TB PCIe SSD, SD Card Reader, Webcam, HDMI, Wi-Fi, Windows 11 Home, Black",
+      "productId": "B0LAP0106",
+      "url": "https://www.shopfixture.test/dp/B0LAP0106",
+      "brand": "Dell",
+      "price": 493.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Dell%20Laptop",
+          "altText": "Dell Inspiron 15 3000 Series 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1035G1, 16GB DDR4 RAM, 1TB PCIe SSD, SD Card Reader, Webcam, HDMI, Wi-Fi, Windows 11 Home, Black"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 93,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Sep 26 - 28"
+      },
+      "availabilityMessage": "Only 20 left in stock - order soon.",
+      "promotions": [
+        {
+          "type": "more_buying_choices",
+          "description": "More Buying Choices: $351.93 (30+ used & new offers)"
+        }
+      ],
+      "description": "Dell laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "Dell side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "Dell ports"
+        }
+      ]
+    },
+    {
+      "name": "HP 15 Business & Student Laptop, 15.6\" FHD Micro-Edge Display, 11th Gen Intel Core i5-1135G7, 16GB RAM, 1TB SSD, Webcam, USB-C, WiFi, Long Battery Life, Windows 11 Home",
+      "productId": "B0LAP0107",
+      "url": "https://www.shopfixture.test/dp/B0LAP0107",
+      "brand": "HP",
+      "price": 489.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=HP%20Laptop",
+          "altText": "HP 15 Business & Student Laptop, 15.6\" FHD Micro-Edge Display, 11th Gen Intel Core i5-1135G7, 16GB RAM, 1TB SSD, Webcam, USB-C, WiFi, Long Battery Life, Windows 11 Home"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 5,
+        "reviewCount": 1,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 30 · Or fastest delivery Tomorrow"
+      },
+      "availabilityMessage": "Only 5 left in stock - order soon.",
+      "promotions": [
+        {
+          "type": "more_buying_choices",
+          "description": "More Buying Choices: $488.00 (11 new offers)"
+        }
+      ],
+      "description": "HP laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "HP side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "HP ports"
+        }
+      ]
+    },
+    {
+      "name": "Apple 2024 MacBook Air 13-inch Laptop with M3 chip, 16GB RAM, 256GB SSD, Sky Blue",
+      "productId": "B0LAP0108",
+      "url": "https://www.shopfixture.test/dp/B0LAP0108",
+      "brand": "Apple",
+      "price": 999,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20Laptop",
+          "altText": "Apple 2024 MacBook Air 13-inch Laptop with M3 chip, 16GB RAM, 256GB SSD, Sky Blue"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "MacBook",
+      "keyFeatures": [
+        "Display Size: 13.6 inches",
+        "Disk Size: 256 GB",
+        "RAM: 16 GB",
+        "Operating System: macOS"
+      ],
+      "preDiscountPrice": 1099,
+      "aggregateRating": {
+        "ratingValue": 4.8,
+        "reviewCount": 6412,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "bestseller",
+          "label": "Best Seller"
+        }
+      ],
+      "isSponsored": true,
+      "description": "Apple laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "Apple side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "Apple ports"
+        }
+      ]
+    },
+    {
+      "name": "Lenovo IdeaPad 3 15.6\" Laptop, FHD, Intel Core i3-1215U, 8GB RAM, 128GB SSD, Windows 11 Home (S mode), Arctic Grey",
+      "productId": "B0LAP0109",
+      "url": "https://www.shopfixture.test/dp/B0LAP0109",
+      "brand": "Lenovo",
+      "price": 329.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Lenovo%20Laptop",
+          "altText": "Lenovo IdeaPad 3 15.6\" Laptop, FHD, Intel Core i3-1215U, 8GB RAM, 128GB SSD, Windows 11 Home (S mode), Arctic Grey"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 128 GB",
+        "RAM: 8 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 894,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Thu, Oct 2"
+      },
+      "description": "Lenovo laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "Lenovo side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "Lenovo ports"
+        }
+      ]
+    },
+    {
+      "name": "ASUS ROG Strix G16 Gaming Laptop, 16\" FHD 165Hz, Intel Core i7-13650HX, RTX 4060, 16GB RAM, 1TB SSD",
+      "productId": "B0LAP0110",
+      "url": "https://www.shopfixture.test/dp/B0LAP0110",
+      "brand": "ASUS",
+      "price": 1299.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=ASUS%20Laptop",
+          "altText": "ASUS ROG Strix G16 Gaming Laptop, 16\" FHD 165Hz, Intel Core i7-13650HX, RTX 4060, 16GB RAM, 1TB SSD"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Gaming Laptops",
+      "keyFeatures": [
+        "Display Size: 16 inches",
+        "Disk Size: 1 TB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "preDiscountPrice": 1499.99,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 1567,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 30"
+      },
+      "priceRange": {
+        "minPrice": 1199.99,
+        "maxPrice": 1899.99,
+        "currency": "USD"
+      },
+      "description": "ASUS laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "ASUS side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "ASUS ports"
+        }
+      ]
+    },
+    {
+      "name": "Acer Aspire 5 15.6\" FHD Laptop, AMD Ryzen 7 5700U, 16GB RAM, 512GB SSD, Wi-Fi 6, Backlit Keyboard, Silver",
+      "productId": "B0LAP0111",
+      "url": "https://www.shopfixture.test/dp/B0LAP0111",
+      "brand": "Acer",
+      "price": 429.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Acer%20Laptop",
+          "altText": "Acer Aspire 5 15.6\" FHD Laptop, AMD Ryzen 7 5700U, 16GB RAM, 512GB SSD, Wi-Fi 6, Backlit Keyboard, Silver"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Traditional Laptops",
+      "keyFeatures": [
+        "Display Size: 15.6 inches",
+        "Disk Size: 512 GB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Home"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 3102,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Oct 1"
+      },
+      "promotions": [
+        {
+          "type": "coupon",
+          "description": "$50.00 coupon applied at checkout",
+          "discountPercentage": null
+        }
+      ],
+      "description": "Acer laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "Acer side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "Acer ports"
+        }
+      ]
+    },
+    {
+      "name": "Lenovo ThinkPad E14 Gen 5 Business Laptop, 14\" FHD, Intel Core i5-1335U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "productId": "B0LAP0112",
+      "url": "https://www.shopfixture.test/dp/B0LAP0112",
+      "brand": "Lenovo",
+      "price": 789,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Lenovo%20Laptop",
+          "altText": "Lenovo ThinkPad E14 Gen 5 Business Laptop, 14\" FHD, Intel Core i5-1335U, 16GB RAM, 512GB SSD, Windows 11 Pro"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Business Laptops",
+      "keyFeatures": [
+        "Display Size: 14 inches",
+        "Disk Size: 512 GB",
+        "RAM: 16 GB",
+        "Operating System: Windows 11 Pro"
+      ],
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 612,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Oct 1"
+      },
+      "seller": {
+        "name": "Lenovo Official",
+        "rating": 97,
+        "url": "https://www.shopfixture.test/seller/Lenovo%20Official"
+      },
+      "description": "Lenovo laptop for work, school, and everyday multitasking.",
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Angle",
+          "altText": "Lenovo side view"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Ports",
+          "altText": "Lenovo ports"
+        }
+      ]
+    }
+  ],
+  "sponsoredProducts": [
+    {
+      "name": "Dell XPS 15 Creator Laptop Sleeve",
+      "url": "https://www.shopfixture.test/dp/B0SPLAP1",
+      "price": 49.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Sleeve",
+        "altText": "Dell sleeve"
+      },
+      "sponsorInfo": {
+        "advertiser": "Dell",
+        "campaignType": "Brand"
+      }
+    },
+    {
+      "name": "Logitech MX Master 3S for Laptops",
+      "url": "https://www.shopfixture.test/dp/B0SPLAP2",
+      "price": 99.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Mouse",
+        "altText": "MX Master 3S"
+      },
+      "sponsorInfo": {
+        "advertiser": "Logitech",
+        "campaignType": "Product"
+      }
+    },
+    {
+      "name": "Anker 140W USB-C Charger",
+      "url": "https://www.shopfixture.test/dp/B0SPLAP3",
+      "price": 69.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=140W",
+        "altText": "Anker 140W"
+      },
+      "sponsorInfo": {
+        "advertiser": "Anker",
+        "campaignType": "Product"
+      }
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": [
+      {
+        "name": "USB-C Hub 7-in-1",
+        "url": "https://www.shopfixture.test/dp/REC-Hub",
+        "price": 39.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Hub"
+      },
+      {
+        "name": "Laptop Sleeve 15\"",
+        "url": "https://www.shopfixture.test/dp/REC-Sleeve",
+        "price": 24.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Sleeve"
+      },
+      {
+        "name": "Wireless Mouse",
+        "url": "https://www.shopfixture.test/dp/REC-Mouse",
+        "price": 29.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Mouse"
+      },
+      {
+        "name": "140W USB-C Charger",
+        "url": "https://www.shopfixture.test/dp/REC-140W",
+        "price": 69.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=140W"
+      },
+      {
+        "name": "Aluminum Laptop Stand",
+        "url": "https://www.shopfixture.test/dp/REC-Stand",
+        "price": 34.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Stand"
+      },
+      {
+        "name": "Webcam 1080p",
+        "url": "https://www.shopfixture.test/dp/REC-Cam",
+        "price": 49.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Cam"
+      }
+    ]
+  },
+  "filters": [
+    {
+      "title": "Eligible for Free Shipping",
+      "options": [
+        {
+          "label": "Free Shipping by ShopFixture",
+          "checked": true,
+          "count": 42000
+        }
+      ]
+    },
+    {
+      "title": "Delivery Day",
+      "options": [
+        {
+          "label": "Get It by Tomorrow",
+          "count": 8200
+        },
+        {
+          "label": "Get It in 2 Days",
+          "count": 15000
+        }
+      ]
+    },
+    {
+      "title": "Department",
+      "options": [
+        {
+          "label": "Computers & Accessories",
+          "checked": true,
+          "count": 18000
+        },
+        {
+          "label": "Traditional Laptops",
+          "checked": true,
+          "count": 9200
+        },
+        {
+          "label": "2 in 1 Laptops",
+          "count": 2100
+        },
+        {
+          "label": "Gaming Laptops",
+          "count": 3400
+        },
+        {
+          "label": "Electronics",
+          "count": 50000
+        }
+      ]
+    },
+    {
+      "title": "Customer Reviews",
+      "options": [
+        {
+          "label": "4 Stars & Up",
+          "count": 21000
+        },
+        {
+          "label": "3 Stars & Up",
+          "count": 31000
+        }
+      ]
+    },
+    {
+      "title": "Brands",
+      "options": [
+        {
+          "label": "HP",
+          "count": 4200
+        },
+        {
+          "label": "Dell",
+          "count": 3800
+        },
+        {
+          "label": "ASUS",
+          "count": 2900
+        },
+        {
+          "label": "Lenovo",
+          "count": 3100
+        },
+        {
+          "label": "Apple",
+          "count": 860
+        },
+        {
+          "label": "Acer",
+          "count": 2400
+        }
+      ]
+    },
+    {
+      "title": "Price",
+      "options": [
+        {
+          "label": "Under $25",
+          "count": 120
+        },
+        {
+          "label": "$25 to $50",
+          "count": 340
+        },
+        {
+          "label": "$50 to $100",
+          "count": 890
+        },
+        {
+          "label": "$100 to $200",
+          "count": 2100
+        },
+        {
+          "label": "$200 to $500",
+          "checked": true,
+          "count": 9800
+        },
+        {
+          "label": "$500 to $1,000",
+          "count": 7200
+        },
+        {
+          "label": "$1,000 & Above",
+          "count": 4100
+        }
+      ]
+    },
+    {
+      "title": "Deals & Discounts",
+      "options": [
+        {
+          "label": "All Discounts",
+          "count": 1200
+        },
+        {
+          "label": "Today's Deals",
+          "count": 180
+        }
+      ]
+    },
+    {
+      "title": "Display Size",
+      "options": [
+        {
+          "label": "Up to 13.9 in",
+          "count": 2200
+        },
+        {
+          "label": "14 to 14.9 in",
+          "count": 3100
+        },
+        {
+          "label": "15 to 15.9 in",
+          "checked": true,
+          "count": 4100
+        },
+        {
+          "label": "16 in & above",
+          "count": 1900
+        }
+      ]
+    },
+    {
+      "title": "RAM Size",
+      "options": [
+        {
+          "label": "8 GB & Above",
+          "checked": true,
+          "count": 6200
+        },
+        {
+          "label": "16 GB & Above",
+          "count": 4100
+        },
+        {
+          "label": "32 GB & Above",
+          "count": 980
+        }
+      ]
+    },
+    {
+      "title": "Hard Drive Size",
+      "options": [
+        {
+          "label": "128 to 249 GB",
+          "count": 1100
+        },
+        {
+          "label": "250 to 499 GB",
+          "count": 2400
+        },
+        {
+          "label": "500 GB & Above",
+          "checked": true,
+          "count": 5600
+        }
+      ]
+    },
+    {
+      "title": "Operating System",
+      "options": [
+        {
+          "label": "Windows 11",
+          "checked": true,
+          "count": 9800
+        },
+        {
+          "label": "Windows 10",
+          "count": 1200
+        },
+        {
+          "label": "macOS",
+          "count": 860
+        },
+        {
+          "label": "Chrome OS",
+          "count": 740
+        }
+      ]
+    },
+    {
+      "title": "Condition",
+      "options": [
+        {
+          "label": "New",
+          "checked": true,
+          "count": 52000
+        },
+        {
+          "label": "Renewed",
+          "count": 4100
+        },
+        {
+          "label": "Used",
+          "count": 2800
+        }
+      ]
+    }
+  ],
+  "sortOptions": [
+    "Featured",
+    "Price: Low to High",
+    "Price: High to Low",
+    "Avg. Customer Review",
+    "Newest Arrivals",
+    "Best Sellers"
+  ],
+  "selectedSort": "Featured",
+  "editorialBanner": {
+    "title": "Save on pre-loved Laptops",
+    "body": "Shop renewed and certified pre-owned notebooks with warranty options.",
+    "cta": "Shop renewed laptops"
+  },
+  "brandSpotlight": {
+    "brand": "HP",
+    "tagline": "Top 10 best-selling brand in laptops — Pavilion, Essential, and business notebooks.",
+    "cta": "Shop HP"
+  }
+}

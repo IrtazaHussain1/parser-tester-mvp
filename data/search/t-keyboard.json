@@ -1,0 +1,125 @@
+{
+  "slug": "t-keyboard",
+  "searchMetadata": {
+    "query": "keyboard",
+    "totalResults": 8000,
+    "resultsDisplayed": 4,
+    "searchUrl": "https://www.shopfixture.test/s?k=keyboard",
+    "searchType": "keyword"
+  },
+  "products": [
+    {
+      "name": "Keychron K2 Wireless Mechanical Keyboard, Hot-swappable, RGB, Gateron Brown — Mac & Windows",
+      "productId": "B0KEY0001",
+      "url": "https://www.shopfixture.test/dp/B0KEY0001",
+      "brand": "Keychron",
+      "price": 89.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Keychron%20K2%20Wireless%20Mechani",
+          "altText": "Keychron K2 Wireless Mechanical Keyboard, Hot-swappable, RGB, Gateron Brown — Mac & Windows"
+        }
+      ],
+      "availability": "in_stock",
+      "preDiscountPrice": 109.99,
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 9421,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Amazon's Choice"
+        }
+      ]
+    },
+    {
+      "name": "Logitech MX Keys Mini Wireless Illuminated Keyboard, Graphite — Compact for Mac & Windows",
+      "productId": "B0KEY0002",
+      "url": "https://www.shopfixture.test/dp/B0KEY0002",
+      "price": 99.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Logitech%20MX%20Keys%20Mini%20Wirele",
+          "altText": "Logitech MX Keys Mini Wireless Illuminated Keyboard, Graphite — Compact for Mac & Windows"
+        }
+      ],
+      "availability": "in_stock",
+      "preDiscountPrice": 119.99,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 15420,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      }
+    },
+    {
+      "name": "Logitech MX Mechanical Mini Wireless Keyboard — Tactile Quiet Switches, Backlit",
+      "productId": "B0KEY0003",
+      "url": "https://www.shopfixture.test/dp/B0KEY0003",
+      "brand": "Logitech",
+      "price": 149.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Logitech%20MX%20Mechanical%20Mini%20",
+          "altText": "Logitech MX Mechanical Mini Wireless Keyboard — Tactile Quiet Switches, Backlit"
+        }
+      ],
+      "availability": "in_stock"
+    },
+    {
+      "name": "Keychron Q1 Pro Wireless Custom Mechanical Keyboard — QMK/VIA, Aluminum CNC Body",
+      "productId": "B0KEY0004",
+      "url": "https://www.shopfixture.test/dp/B0KEY0004",
+      "brand": "Keychron",
+      "price": 199.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Keychron%20Q1%20Pro%20Wireless%20Cus",
+          "altText": "Keychron Q1 Pro Wireless Custom Mechanical Keyboard — QMK/VIA, Aluminum CNC Body"
+        }
+      ],
+      "availability": "in_stock",
+      "aggregateRating": {
+        "ratingValue": 4.7,
+        "reviewCount": 2104,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Sep 24"
+      },
+      "badges": [
+        {
+          "type": "bestseller",
+          "label": "Best Seller"
+        }
+      ],
+      "isSponsored": true
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=keyboard&page=2"
+  }
+}

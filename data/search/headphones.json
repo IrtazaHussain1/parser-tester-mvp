@@ -1,0 +1,428 @@
+{
+  "slug": "headphones",
+  "searchMetadata": {
+    "query": "headphones",
+    "totalResults": 50000,
+    "resultsDisplayed": 8,
+    "searchUrl": "https://www.shopfixture.test/s?k=headphones",
+    "searchType": "keyword"
+  },
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 6250,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=headphones&page=2"
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://www.shopfixture.test/"
+    },
+    {
+      "name": "Electronics",
+      "url": "https://www.shopfixture.test/electronics"
+    },
+    {
+      "name": "headphones",
+      "url": "https://www.shopfixture.test/s?k=headphones"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "searchTerm": "noise cancelling headphones",
+      "url": "https://www.shopfixture.test/s?k=noise%20cancelling%20headphones"
+    },
+    {
+      "searchTerm": "wireless over ear",
+      "url": "https://www.shopfixture.test/s?k=wireless%20over%20ear"
+    },
+    {
+      "searchTerm": "sony xm5",
+      "url": "https://www.shopfixture.test/s?k=sony%20xm5"
+    },
+    {
+      "searchTerm": "bose qc ultra",
+      "url": "https://www.shopfixture.test/s?k=bose%20qc%20ultra"
+    },
+    {
+      "searchTerm": "running headphones",
+      "url": "https://www.shopfixture.test/s?k=running%20headphones"
+    }
+  ],
+  "products": [
+    {
+      "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones, Black — 30 Hour Battery, Multipoint",
+      "productId": "B0HDP0001",
+      "url": "https://www.shopfixture.test/dp/B0HDP0001",
+      "brand": "Sony",
+      "price": 328,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Sony%20WH-1000XM5%20Wireless%20Noi",
+          "altText": "Sony WH-1000XM5 Wireless Noise Canceling Headphones, Black — 30 Hour Battery, Multipoint"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 399.99,
+      "aggregateRating": {
+        "ratingValue": 4.7,
+        "reviewCount": 31204,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "bestseller",
+          "label": "Best Seller"
+        }
+      ],
+      "variants": {
+        "variantCount": 2,
+        "visibleOptions": [
+          {
+            "type": "color",
+            "value": "Black",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Black"
+          },
+          {
+            "type": "color",
+            "value": "Silver",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Silver"
+          }
+        ]
+      },
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Silver",
+          "altText": "Sony Silver"
+        }
+      ]
+    },
+    {
+      "name": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones, Black — Immersive Audio",
+      "productId": "B0HDP0002",
+      "url": "https://www.shopfixture.test/dp/B0HDP0002",
+      "brand": "Bose",
+      "price": 429,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Bose%20QuietComfort%20Ultra%20Wire",
+          "altText": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones, Black — Immersive Audio"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 449,
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 8901,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      }
+    },
+    {
+      "name": "Apple AirPods Max Wireless Over-Ear Headphones, Space Gray — Active Noise Cancellation",
+      "productId": "B0HDP0003",
+      "url": "https://www.shopfixture.test/dp/B0HDP0003",
+      "brand": "Apple",
+      "price": 499,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20AirPods%20Max%20Wireless%20O",
+          "altText": "Apple AirPods Max Wireless Over-Ear Headphones, Space Gray — Active Noise Cancellation"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 549,
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 12440,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 23"
+      }
+    },
+    {
+      "name": "Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones — 40 Hour Playtime",
+      "productId": "B0HDP0004",
+      "url": "https://www.shopfixture.test/dp/B0HDP0004",
+      "brand": "Soundcore",
+      "price": 69.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Soundcore%20by%20Anker%20Life%20Q30%20",
+          "altText": "Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones — 40 Hour Playtime"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 79.99,
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 98211,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Amazon's Choice"
+        }
+      ]
+    },
+    {
+      "name": "Sennheiser Momentum 4 Wireless Headphones — 60 Hour Battery, Adaptive Noise Cancellation",
+      "productId": "B0HDP0005",
+      "url": "https://www.shopfixture.test/dp/B0HDP0005",
+      "brand": "Sennheiser",
+      "price": 279.95,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Sennheiser%20Momentum%204%20Wirele",
+          "altText": "Sennheiser Momentum 4 Wireless Headphones — 60 Hour Battery, Adaptive Noise Cancellation"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 379.95,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 7543,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Sep 24"
+      }
+    },
+    {
+      "name": "Beats Studio Pro Wireless Headphones — Personalized Spatial Audio, USB-C Lossless",
+      "productId": "B0HDP0006",
+      "url": "https://www.shopfixture.test/dp/B0HDP0006",
+      "brand": "Beats",
+      "price": 249.95,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Beats%20Studio%20Pro%20Wireless%20He",
+          "altText": "Beats Studio Pro Wireless Headphones — Personalized Spatial Audio, USB-C Lossless"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 349.95,
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 5120,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 23"
+      },
+      "isSponsored": true
+    },
+    {
+      "name": "AKG K371 Closed-Back Studio Headphones — 50mm Drivers, Foldable Design",
+      "productId": "B0HDP0007",
+      "url": "https://www.shopfixture.test/dp/B0HDP0007",
+      "brand": "AKG",
+      "price": 99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=AKG%20K371%20Closed-Back%20Studio%20",
+          "altText": "AKG K371 Closed-Back Studio Headphones — 50mm Drivers, Foldable Design"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Studio Headphones",
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 4321,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Thu, Sep 25"
+      }
+    },
+    {
+      "name": "TOZO HT2 Hybrid ANC Headphones — 60H Playtime, Hi-Res Audio, Lightweight",
+      "productId": "B0HDP0008",
+      "url": "https://www.shopfixture.test/dp/B0HDP0008",
+      "brand": "TOZO",
+      "price": 49.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=TOZO%20HT2%20Hybrid%20ANC%20Headphon",
+          "altText": "TOZO HT2 Hybrid ANC Headphones — 60H Playtime, Hi-Res Audio, Lightweight"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Over-Ear Headphones",
+      "preDiscountPrice": 59.99,
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 15600,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "deal",
+          "label": "Overall Pick"
+        }
+      ]
+    }
+  ],
+  "sponsoredProducts": [
+    {
+      "name": "Sony Replacement Earpads",
+      "url": "https://www.shopfixture.test/dp/B0SPHDP1",
+      "price": 18.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Sony",
+        "altText": "Sony Replacement Earpads"
+      },
+      "sponsorInfo": {
+        "advertiser": "Sony",
+        "campaignType": "Product"
+      }
+    },
+    {
+      "name": "Airplane Headphone Adapter",
+      "url": "https://www.shopfixture.test/dp/B0SPHDP2",
+      "price": 8.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Airplane",
+        "altText": "Airplane Headphone Adapter"
+      },
+      "sponsorInfo": {
+        "advertiser": "Generic Audio",
+        "campaignType": "Product"
+      }
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": [
+      {
+        "name": "Replacement pads",
+        "url": "https://www.shopfixture.test/dp/REC-Pads",
+        "price": 18.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Pads"
+      },
+      {
+        "name": "Bluetooth transmitter",
+        "url": "https://www.shopfixture.test/dp/REC-TX",
+        "price": 29.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=TX"
+      },
+      {
+        "name": "Hard case",
+        "url": "https://www.shopfixture.test/dp/REC-Case",
+        "price": 22.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Case"
+      },
+      {
+        "name": "Airline adapter",
+        "url": "https://www.shopfixture.test/dp/REC-Air",
+        "price": 8.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Air"
+      }
+    ]
+  },
+  "filters": [
+    {
+      "title": "Department",
+      "options": [
+        {
+          "label": "Headphones",
+          "checked": true,
+          "count": 12000
+        },
+        {
+          "label": "Electronics",
+          "count": 40000
+        }
+      ]
+    },
+    {
+      "title": "Feature",
+      "options": [
+        {
+          "label": "Noise Cancelling",
+          "checked": true,
+          "count": 3200
+        },
+        {
+          "label": "Wireless",
+          "count": 8000
+        }
+      ]
+    }
+  ],
+  "sortOptions": [
+    "Featured",
+    "Price: Low to High",
+    "Price: High to Low",
+    "Avg. Customer Review",
+    "Newest Arrivals",
+    "Best Sellers"
+  ],
+  "selectedSort": "Featured",
+  "editorialBanner": {
+    "title": "Quiet commute picks",
+    "body": "Flagship ANC headphones and budget hybrids under $80.",
+    "cta": "Shop headphones"
+  },
+  "brandSpotlight": {
+    "brand": "Sony",
+    "tagline": "WH-1000XM5 — industry-leading noise canceling and multipoint Bluetooth.",
+    "cta": "Shop Sony Audio"
+  }
+}

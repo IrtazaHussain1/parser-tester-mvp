@@ -1,0 +1,119 @@
+{
+  "slug": "t-laptop",
+  "searchMetadata": {
+    "query": "laptop",
+    "totalResults": 14000,
+    "resultsDisplayed": 4,
+    "searchUrl": "https://www.shopfixture.test/s?k=laptop",
+    "searchType": "keyword"
+  },
+  "products": [
+    {
+      "name": "HP 15 Notebook Laptop, 15.6\" Full HD Display, Intel Core i5-1135G7 Processor, 16GB DDR4 RAM, 1TB PCIe SSD, USB Type-C, Webcam, Wi-Fi, Windows 11 Home, Silver",
+      "productId": "B0LAP0101",
+      "url": "https://www.shopfixture.test/dp/B0LAP0101",
+      "brand": "HP",
+      "price": 478,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=HP%20Laptop",
+          "altText": "HP 15 Notebook Laptop, 15.6\" Full HD Display, Intel Core i5-1135G7 Processor, 16GB DDR4 RAM, 1TB PCIe SSD, USB Type-C, Webcam, Wi-Fi, Windows 11 Home, Silver"
+        }
+      ],
+      "availability": "in_stock",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 91,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Fri, Sep 26 · Or fastest delivery Tomorrow"
+      },
+      "availabilityMessage": "Only 17 left in stock - order soon.",
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Overall Pick"
+        }
+      ]
+    },
+    {
+      "name": "Dell Inspiron 3000 Series 3520 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1155G7, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, SD Card Reader, Wi-Fi, Windows 11 Home, Black",
+      "productId": "B0LAP0102",
+      "url": "https://www.shopfixture.test/dp/B0LAP0102",
+      "price": 489.45,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Dell%20Laptop",
+          "altText": "Dell Inspiron 3000 Series 3520 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1155G7, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, SD Card Reader, Wi-Fi, Windows 11 Home, Black"
+        }
+      ],
+      "availability": "in_stock",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 35,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Mon, Sep 29"
+      },
+      "availabilityMessage": "Only 4 left in stock - order soon."
+    },
+    {
+      "name": "ASUS Vivobook Laptop, 14\" FHD Display, i3-1215U, 16GB RAM, 1TB SSD, Wi-Fi 6, HDMI, Webcam, Touchpad, Windows 11 Home, Blue",
+      "productId": "B0LAP0103",
+      "url": "https://www.shopfixture.test/dp/B0LAP0103",
+      "brand": "ASUS",
+      "price": 409.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=ASUS%20Laptop",
+          "altText": "ASUS Vivobook Laptop, 14\" FHD Display, i3-1215U, 16GB RAM, 1TB SSD, Wi-Fi 6, HDMI, Webcam, Touchpad, Windows 11 Home, Blue"
+        }
+      ],
+      "availability": "in_stock",
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Sep 27 - 28 · Or fastest delivery Mon, Sep 29"
+      },
+      "availabilityMessage": "Only 2 left in stock - order soon."
+    },
+    {
+      "name": "HP Pavilion x360 2-in-1 Laptop, 14\" FHD Touchscreen, Intel Core i5-1235U, 16GB RAM, 1TB SSD, Webcam, HDMI, FP Reader, Wi-Fi 6, Stylus Pen, Windows 11 Home",
+      "productId": "B0LAP0104",
+      "url": "https://www.shopfixture.test/dp/B0LAP0104",
+      "brand": "HP",
+      "price": 709.18,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=HP%20Laptop",
+          "altText": "HP Pavilion x360 2-in-1 Laptop, 14\" FHD Touchscreen, Intel Core i5-1235U, 16GB RAM, 1TB SSD, Webcam, HDMI, FP Reader, Wi-Fi 6, Stylus Pen, Windows 11 Home"
+        }
+      ],
+      "availability": "in_stock",
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Sep 26 - 28 · Or fastest delivery Tomorrow"
+      },
+      "availabilityMessage": "Only 3 left in stock - order soon."
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=laptop&page=2"
+  }
+}

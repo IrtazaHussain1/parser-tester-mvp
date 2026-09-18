@@ -1,0 +1,343 @@
+{
+  "slug": "1",
+  "title": "Google Pixel 8 Pro - Unlocked Android Smartphone - 128 GB - Obsidian - 6.7 inch LTPO OLED, Triple Rear Camera, Tensor G3",
+  "brand": {
+    "name": "Google",
+    "url": "#"
+  },
+  "breadcrumbs": [
+    "Electronics",
+    "Cell Phones & Accessories",
+    "Cell Phones",
+    "Unlocked Cell Phones"
+  ],
+  "images": {
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Pixel%2BPhone",
+    "thumbnails": [
+      "https://placehold.co/80x80/f0f0f0/333333?text=1",
+      "https://placehold.co/80x80/f0f0f0/333333?text=2",
+      "https://placehold.co/80x80/f0f0f0/333333?text=3",
+      "https://placehold.co/80x80/f0f0f0/333333?text=4",
+      "https://placehold.co/80x80/f0f0f0/333333?text=5"
+    ]
+  },
+  "rating": {
+    "stars": 4.6,
+    "count": 18420,
+    "histogram": [
+      72,
+      16,
+      6,
+      3,
+      3
+    ]
+  },
+  "price": {
+    "current": 699,
+    "list": 999,
+    "currency": "USD"
+  },
+  "availability": "In Stock",
+  "bullets": [
+    "Google Tensor G3 delivers on-device AI for Magic Eraser, Call Screen, and Live Translate without sending your data to the cloud.",
+    "6.7\" LTPO OLED display at up to 120 Hz with Corning Gorilla Glass Victus 2 for smooth scrolling and outdoor brightness.",
+    "Triple rear camera system: 50 MP wide, 48 MP ultrawide (macro), and 48 MP telephoto with 5x optical zoom.",
+    "Unlocked for all major US carriers — activate on Verizon, T-Mobile, AT&T, or MVNOs with a compatible nano-SIM or eSIM.",
+    "Seven years of OS and security updates from Google so the phone stays current longer than typical Android devices.",
+    "IP68 water and dust resistance plus wireless charging and reverse wireless charging for earbuds on the go.",
+    "What's in the box: Pixel 8 Pro, 1 m USB-C cable, SIM tool, and quick-start guide (charger sold separately)."
+  ],
+  "description": [
+    "Pixel 8 Pro is Google's flagship unlocked smartphone built around the Tensor G3 chip and a pro-grade camera system. The 6.7-inch LTPO OLED panel adapts refresh rate from 1–120 Hz to balance smoothness and battery life.",
+    "Computational photography features like Best Take, Audio Magic Eraser, and Night Sight produce usable shots in low light without a dedicated photography degree. Video Boost (when enabled) uploads overnight for cinematic processing.",
+    "As an unlocked device it works with major US carriers. eSIM support lets you switch lines without swapping plastic SIMs — useful for travel or dual-number setups."
+  ],
+  "aplus": {
+    "heading": "From the manufacturer",
+    "paragraphs": [
+      "Google designs Pixel hardware and software together so features like Call Screen and Photo Unblur feel native rather than bolted on.",
+      "Pixel phones receive feature drops several times a year in addition to monthly security patches."
+    ]
+  },
+  "variantOptions": [
+    {
+      "dimension": "Color",
+      "options": [
+        {
+          "value": "Obsidian",
+          "isSelected": true,
+          "price": 699
+        },
+        {
+          "value": "Porcelain",
+          "isSelected": false,
+          "price": 699
+        },
+        {
+          "value": "Bay",
+          "isSelected": false,
+          "price": 699
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "label": "Brand",
+      "value": "Google"
+    },
+    {
+      "label": "Item model number",
+      "value": "GA04864-US"
+    },
+    {
+      "label": "Wireless carrier",
+      "value": "Unlocked"
+    },
+    {
+      "label": "Operating system",
+      "value": "Android 14"
+    },
+    {
+      "label": "Memory Storage Capacity",
+      "value": "128 GB"
+    },
+    {
+      "label": "Ram Memory Installed Size",
+      "value": "12 GB"
+    },
+    {
+      "label": "Screen Size",
+      "value": "6.7 Inches"
+    },
+    {
+      "label": "Item Weight",
+      "value": "7.5 ounces"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "6.4 x 3.0 x 0.35 inches"
+    },
+    {
+      "label": "Date First Available",
+      "value": "October 4, 2023"
+    }
+  ],
+  "compareTitle": "Compare with similar items",
+  "compareColumns": [
+    "This item\nPixel 8 Pro 128GB",
+    "Pixel 8\n128GB",
+    "Samsung Galaxy S24\n128GB"
+  ],
+  "compareRows": [
+    {
+      "label": "Price",
+      "values": [
+        "$699.00",
+        "$499.00",
+        "$649.00"
+      ]
+    },
+    {
+      "label": "Display",
+      "values": [
+        "6.7\" LTPO OLED",
+        "6.2\" OLED",
+        "6.2\" Dynamic AMOLED"
+      ]
+    },
+    {
+      "label": "Rear cameras",
+      "values": [
+        "Triple 50/48/48",
+        "Dual 50/12",
+        "Triple 50/12/10"
+      ]
+    },
+    {
+      "label": "OS updates",
+      "values": [
+        "7 years",
+        "7 years",
+        "7 years"
+      ]
+    },
+    {
+      "label": "Rating",
+      "values": [
+        "4.6 ★",
+        "4.5 ★",
+        "4.5 ★"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Alex R.",
+      "stars": 5,
+      "title": "Best camera phone I have owned",
+      "date": "August 12, 2024",
+      "body": "Night Sight and the telephoto zoom are excellent. Battery easily lasts a full workday with 5G on. Unlocked activation on T-Mobile took under ten minutes.",
+      "verified": true,
+      "helpfulVotes": 42,
+      "images": [
+        "https://placehold.co/150x150/f0f0f0/333333?text=Rev1",
+        "https://placehold.co/150x150/f0f0f0/333333?text=Rev2"
+      ]
+    },
+    {
+      "author": "Priya K.",
+      "stars": 4,
+      "title": "Great phone, warm under load",
+      "date": "July 2, 2024",
+      "body": "Display and speakers are first-class. It can get warm during 4K video, but nothing alarming. Happy I skipped carrier bloatware by buying unlocked.",
+      "verified": true,
+      "helpfulVotes": 18
+    },
+    {
+      "author": "Sam T.",
+      "stars": 5,
+      "title": "Call Screen alone is worth it",
+      "date": "June 18, 2024",
+      "body": "Spam calls dropped dramatically. Magic Editor cleaned up vacation photos better than I expected for an on-device tool.",
+      "verified": true,
+      "helpfulVotes": 27
+    },
+    {
+      "author": "Jordan M.",
+      "stars": 3,
+      "title": "Solid but expensive accessories",
+      "date": "May 9, 2024",
+      "body": "Phone is excellent. Official cases and the Pixel Stand add up quickly. Third-party Qi chargers work fine for daily use.",
+      "verified": true,
+      "helpfulVotes": 9
+    }
+  ],
+  "qa": [
+    {
+      "question": "Does this include a wall charger?",
+      "answer": "No. Google includes a USB-C cable only. Use any USB-PD charger 30W or higher for fast charging.",
+      "meta": "4 answers · By Google Support"
+    },
+    {
+      "question": "Will it work on Verizon?",
+      "answer": "Yes. Pixel 8 Pro is unlocked and certified for Verizon, AT&T, and T-Mobile in the US.",
+      "meta": "12 answers · By Alex R."
+    },
+    {
+      "question": "Is the 128 GB model enough?",
+      "answer": "For most users yes, especially with Photos backup. Heavy 4K shooters may prefer 256 GB.",
+      "meta": "6 answers · By Priya K."
+    }
+  ],
+  "relatedProducts": [
+    {
+      "title": "Google Pixel Case (Obsidian)",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Case",
+      "stars": 4,
+      "price": 34.99
+    },
+    {
+      "title": "Google Pixel Buds Pro 2",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Buds",
+      "stars": 4,
+      "price": 199.99
+    },
+    {
+      "title": "Spigen Tough Armor for Pixel 8 Pro",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Spigen",
+      "stars": 5,
+      "price": 21.99
+    },
+    {
+      "title": "Anker 30W USB-C Charger",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Anker",
+      "stars": 5,
+      "price": 19.99
+    }
+  ],
+  "merchant": {
+    "soldBy": "ScrapeOps Demo Store",
+    "fulfilledBy": "shipped by ShopFixture Logistics"
+  },
+  "delivery": {
+    "estimate": "Tomorrow, September 19",
+    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
+  },
+  "coupon": "Apply $50.00 coupon",
+  "promo": "Save 15% when you buy any Google case",
+  "climatePledge": {
+    "label": "Climate Pledge Friendly",
+    "detail": "This product has sustainability features recognized by trusted certifications."
+  },
+  "customersSay": {
+    "heading": "Customers say",
+    "summary": "Customers like the camera, battery life, and clean software. Some mention warmth during video capture.",
+    "themes": [
+      {
+        "label": "Camera quality",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Battery life",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Software updates",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Heat under load",
+        "sentiment": "mixed"
+      }
+    ]
+  },
+  "frequentlyBoughtTogether": {
+    "heading": "Frequently bought together",
+    "items": [
+      {
+        "title": "Google Pixel 8 Pro 128GB",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Pixel",
+        "price": 699,
+        "checked": true
+      },
+      {
+        "title": "Pixel Case (Obsidian)",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Case",
+        "price": 34.99,
+        "checked": true
+      },
+      {
+        "title": "Anker 30W USB-C Charger",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Charger",
+        "price": 19.99,
+        "checked": true
+      }
+    ],
+    "totalPrice": 753.98
+  },
+  "videos": [
+    {
+      "title": "Pixel 8 Pro unboxing",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Vid1",
+      "duration": "4:12"
+    },
+    {
+      "title": "Night Sight demo",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Vid2",
+      "duration": "2:48"
+    },
+    {
+      "title": "Seven years of updates",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Vid3",
+      "duration": "1:55"
+    }
+  ],
+  "sellerDetail": {
+    "name": "ScrapeOps Demo Store",
+    "ratingPercent": 96,
+    "ratingsCount": 18420,
+    "shipsFrom": "ShopFixture Logistics",
+    "soldBy": "ScrapeOps Demo Store"
+  }
+}

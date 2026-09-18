@@ -1,0 +1,456 @@
+{
+  "slug": "keyboard",
+  "searchMetadata": {
+    "query": "keyboard",
+    "totalResults": 40000,
+    "resultsDisplayed": 8,
+    "searchUrl": "https://www.shopfixture.test/s?k=keyboard",
+    "searchType": "filtered"
+  },
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 5000,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=keyboard&page=2"
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://www.shopfixture.test/"
+    },
+    {
+      "name": "Electronics",
+      "url": "https://www.shopfixture.test/electronics"
+    },
+    {
+      "name": "keyboard",
+      "url": "https://www.shopfixture.test/s?k=keyboard"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "searchTerm": "mechanical keyboard",
+      "url": "https://www.shopfixture.test/s?k=mechanical%20keyboard"
+    },
+    {
+      "searchTerm": "keychron k2",
+      "url": "https://www.shopfixture.test/s?k=keychron%20k2"
+    },
+    {
+      "searchTerm": "wireless keyboard mac",
+      "url": "https://www.shopfixture.test/s?k=wireless%20keyboard%20mac"
+    },
+    {
+      "searchTerm": "low profile keyboard",
+      "url": "https://www.shopfixture.test/s?k=low%20profile%20keyboard"
+    },
+    {
+      "searchTerm": "rgb keyboard",
+      "url": "https://www.shopfixture.test/s?k=rgb%20keyboard"
+    }
+  ],
+  "products": [
+    {
+      "name": "Keychron K2 Wireless Mechanical Keyboard, Hot-swappable, RGB, Gateron Brown — Mac & Windows",
+      "productId": "B0KEY0001",
+      "url": "https://www.shopfixture.test/dp/B0KEY0001",
+      "brand": "Keychron",
+      "price": 89.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Keychron%20K2%20Wireless%20Mechani",
+          "altText": "Keychron K2 Wireless Mechanical Keyboard, Hot-swappable, RGB, Gateron Brown — Mac & Windows"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Mechanical Keyboards",
+      "preDiscountPrice": 109.99,
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 9421,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Amazon's Choice"
+        }
+      ],
+      "keyFeatures": [
+        "Hot-swap",
+        "Bluetooth 5.1",
+        "RGB"
+      ],
+      "variants": {
+        "variantCount": 3,
+        "visibleOptions": [
+          {
+            "type": "color",
+            "value": "Brown",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Brown"
+          },
+          {
+            "type": "color",
+            "value": "Red",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Red"
+          },
+          {
+            "type": "color",
+            "value": "Blue",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Blue"
+          }
+        ]
+      },
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Red",
+          "altText": "Keychron Red"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Blue",
+          "altText": "Keychron Blue"
+        }
+      ]
+    },
+    {
+      "name": "Logitech MX Keys Mini Wireless Illuminated Keyboard, Graphite — Compact for Mac & Windows",
+      "productId": "B0KEY0002",
+      "url": "https://www.shopfixture.test/dp/B0KEY0002",
+      "brand": "Logitech",
+      "price": 99.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Logitech%20MX%20Keys%20Mini%20Wirele",
+          "altText": "Logitech MX Keys Mini Wireless Illuminated Keyboard, Graphite — Compact for Mac & Windows"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Wireless Keyboards",
+      "preDiscountPrice": 119.99,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 15420,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      }
+    },
+    {
+      "name": "Logitech MX Mechanical Mini Wireless Keyboard — Tactile Quiet Switches, Backlit",
+      "productId": "B0KEY0003",
+      "url": "https://www.shopfixture.test/dp/B0KEY0003",
+      "brand": "Logitech",
+      "price": 149.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Logitech%20MX%20Mechanical%20Mini%20",
+          "altText": "Logitech MX Mechanical Mini Wireless Keyboard — Tactile Quiet Switches, Backlit"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Mechanical Keyboards",
+      "preDiscountPrice": 169.99,
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 5120,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 23"
+      }
+    },
+    {
+      "name": "Keychron Q1 Pro Wireless Custom Mechanical Keyboard — QMK/VIA, Aluminum CNC Body",
+      "productId": "B0KEY0004",
+      "url": "https://www.shopfixture.test/dp/B0KEY0004",
+      "brand": "Keychron",
+      "price": 199.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Keychron%20Q1%20Pro%20Wireless%20Cus",
+          "altText": "Keychron Q1 Pro Wireless Custom Mechanical Keyboard — QMK/VIA, Aluminum CNC Body"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Custom Keyboards",
+      "aggregateRating": {
+        "ratingValue": 4.7,
+        "reviewCount": 2104,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Sep 24"
+      },
+      "badges": [
+        {
+          "type": "bestseller",
+          "label": "Best Seller"
+        }
+      ],
+      "isSponsored": true
+    },
+    {
+      "name": "NuPhy Air75 V2 Wireless Mechanical Keyboard — Low-profile, Hot-swap, RGB",
+      "productId": "B0KEY0005",
+      "url": "https://www.shopfixture.test/dp/B0KEY0005",
+      "brand": "NuPhy",
+      "price": 129.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=NuPhy%20Air75%20V2%20Wireless%20Mech",
+          "altText": "NuPhy Air75 V2 Wireless Mechanical Keyboard — Low-profile, Hot-swap, RGB"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Low-profile Keyboards",
+      "preDiscountPrice": 139.99,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 3340,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      }
+    },
+    {
+      "name": "Apple Magic Keyboard with Touch ID — USB-C, White Keys (for Mac with Apple silicon)",
+      "productId": "B0KEY0006",
+      "url": "https://www.shopfixture.test/dp/B0KEY0006",
+      "brand": "Apple",
+      "price": 149,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20Magic%20Keyboard%20with%20To",
+          "altText": "Apple Magic Keyboard with Touch ID — USB-C, White Keys (for Mac with Apple silicon)"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Wireless Keyboards",
+      "aggregateRating": {
+        "ratingValue": 4.7,
+        "reviewCount": 8901,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 23"
+      }
+    },
+    {
+      "name": "Corsair K70 RGB PRO Mechanical Gaming Keyboard — Cherry MX Red, Aircraft-grade Aluminum",
+      "productId": "B0KEY0007",
+      "url": "https://www.shopfixture.test/dp/B0KEY0007",
+      "brand": "Corsair",
+      "price": 139.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Corsair%20K70%20RGB%20PRO%20Mechanic",
+          "altText": "Corsair K70 RGB PRO Mechanical Gaming Keyboard — Cherry MX Red, Aircraft-grade Aluminum"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Gaming Keyboards",
+      "preDiscountPrice": 169.99,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 11200,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Thu, Sep 25"
+      }
+    },
+    {
+      "name": "Lofree Flow Low-Profile Mechanical Keyboard — Retro Aesthetic, Hot-swap, Wireless",
+      "productId": "B0KEY0008",
+      "url": "https://www.shopfixture.test/dp/B0KEY0008",
+      "brand": "Lofree",
+      "price": 159,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Lofree%20Flow%20Low-Profile%20Mech",
+          "altText": "Lofree Flow Low-Profile Mechanical Keyboard — Retro Aesthetic, Hot-swap, Wireless"
+        }
+      ],
+      "availability": "pre_order",
+      "category": "Low-profile Keyboards",
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 1876,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Fri, Sep 26"
+      },
+      "availabilityMessage": "Ships in 2-3 weeks"
+    }
+  ],
+  "sponsoredProducts": [
+    {
+      "name": "Keychron PBT Keycaps",
+      "url": "https://www.shopfixture.test/dp/B0SPKEY1",
+      "price": 34.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Keychron",
+        "altText": "Keychron PBT Keycaps"
+      },
+      "sponsorInfo": {
+        "advertiser": "Keychron",
+        "campaignType": "Brand"
+      }
+    },
+    {
+      "name": "Gateron Silent Red Switches",
+      "url": "https://www.shopfixture.test/dp/B0SPKEY2",
+      "price": 22.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Gateron",
+        "altText": "Gateron Silent Red Switches"
+      },
+      "sponsorInfo": {
+        "advertiser": "Gateron",
+        "campaignType": "Product"
+      }
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": [
+      {
+        "name": "PBT keycaps",
+        "url": "https://www.shopfixture.test/dp/REC-Caps",
+        "price": 34.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Caps"
+      },
+      {
+        "name": "Palm rest",
+        "url": "https://www.shopfixture.test/dp/REC-Palm",
+        "price": 25.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Palm"
+      },
+      {
+        "name": "Switch set",
+        "url": "https://www.shopfixture.test/dp/REC-Sw",
+        "price": 22.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Sw"
+      },
+      {
+        "name": "Desk mat",
+        "url": "https://www.shopfixture.test/dp/REC-Mat",
+        "price": 19.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Mat"
+      },
+      {
+        "name": "Wrist gel pad",
+        "url": "https://www.shopfixture.test/dp/REC-Gel",
+        "price": 12.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Gel"
+      }
+    ]
+  },
+  "filters": [
+    {
+      "title": "Department",
+      "options": [
+        {
+          "label": "Keyboards",
+          "checked": true,
+          "count": 9000
+        },
+        {
+          "label": "Computer Accessories",
+          "count": 22000
+        }
+      ]
+    },
+    {
+      "title": "Connectivity",
+      "options": [
+        {
+          "label": "Bluetooth",
+          "checked": true,
+          "count": 3100
+        },
+        {
+          "label": "USB-C",
+          "count": 4200
+        }
+      ]
+    },
+    {
+      "title": "Switch type",
+      "options": [
+        {
+          "label": "Mechanical",
+          "checked": true,
+          "count": 2600
+        },
+        {
+          "label": "Low-profile",
+          "count": 900
+        }
+      ]
+    }
+  ],
+  "sortOptions": [
+    "Featured",
+    "Price: Low to High",
+    "Price: High to Low",
+    "Avg. Customer Review",
+    "Newest Arrivals",
+    "Best Sellers"
+  ],
+  "selectedSort": "Featured",
+  "editorialBanner": {
+    "title": "Mechanical keyboard fest",
+    "body": "Hot-swap boards, quiet office options, and Mac-friendly layouts.",
+    "cta": "Shop keyboards"
+  },
+  "brandSpotlight": {
+    "brand": "Keychron",
+    "tagline": "Wireless mechanical keyboards built for Mac and Windows creators.",
+    "cta": "Shop Keychron"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "slug": "5",
+  "title": "Dell XPS 15 Laptop, 15.6\" OLED Touch, Intel Core Ultra 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4050, Windows 11 Pro — Platinum",
+  "brand": {
+    "name": "Dell",
+    "url": "#"
+  },
+  "breadcrumbs": [
+    "Electronics",
+    "Computers & Accessories",
+    "Laptops",
+    "Traditional Laptops"
+  ],
+  "images": {
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=XPS%2B15",
+    "thumbnails": [
+      "https://placehold.co/80x80/f0f0f0/333333?text=1",
+      "https://placehold.co/80x80/f0f0f0/333333?text=2",
+      "https://placehold.co/80x80/f0f0f0/333333?text=3",
+      "https://placehold.co/80x80/f0f0f0/333333?text=4",
+      "https://placehold.co/80x80/f0f0f0/333333?text=5"
+    ]
+  },
+  "rating": {
+    "stars": 4.4,
+    "count": 2156,
+    "histogram": [
+      65,
+      20,
+      8,
+      4,
+      3
+    ]
+  },
+  "price": {
+    "current": 1849.99,
+    "list": 2199.99,
+    "currency": "USD"
+  },
+  "availability": "In Stock",
+  "bullets": [
+    "15.6\" 3.5K OLED InfinityEdge touch display with 400 nit typical brightness and Dolby Vision support.",
+    "Intel Core Ultra 7 processor with NPU for Windows Studio Effects and local AI assistive features.",
+    "32GB LPDDR5x RAM and 1TB PCIe NVMe SSD for large photo libraries and multitrack video projects.",
+    "NVIDIA GeForce RTX 4050 laptop GPU for creative apps and occasional 1080p gaming.",
+    "CNC machined aluminum chassis with a spill-resistant backlit keyboard and large precision touchpad.",
+    "Thunderbolt 4 ports, HDMI 2.1, SD-card reader, and Wi-Fi 6E for modern docking setups.",
+    "Windows 11 Pro with fingerprint reader in the power button for fast secure sign-in."
+  ],
+  "description": [
+    "The XPS 15 targets creators who want a portable OLED canvas without jumping to a 17-inch workstation. The InfinityEdge panel is sharp for photo retouching and HDR video review.",
+    "Core Ultra's NPU enables Windows Studio Effects like background blur and eye contact correction during calls without pegging the discrete GPU.",
+    "A single Thunderbolt dock can drive dual external displays while charging, keeping the desk cable count low."
+  ],
+  "aplus": {
+    "heading": "From the manufacturer",
+    "paragraphs": [
+      "Dell XPS laptops emphasize premium materials, thin bezels, and creator-focused displays.",
+      "ProSupport options and Accidental Damage Service are available at checkout for business buyers."
+    ]
+  },
+  "variantOptions": [
+    {
+      "dimension": "Configuration",
+      "options": [
+        {
+          "value": "Ultra 7 / 32GB / 1TB / RTX 4050",
+          "isSelected": true,
+          "price": 1849.99
+        },
+        {
+          "value": "Ultra 9 / 64GB / 2TB / RTX 4060",
+          "isSelected": false,
+          "price": 2499.99
+        },
+        {
+          "value": "Ultra 7 / 16GB / 512GB / iGPU",
+          "isSelected": false,
+          "price": 1499.99
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "label": "Brand",
+      "value": "Dell"
+    },
+    {
+      "label": "Item model number",
+      "value": "XPS9550-AI"
+    },
+    {
+      "label": "Screen Size",
+      "value": "15.6 Inches"
+    },
+    {
+      "label": "Computer Memory Size",
+      "value": "32 GB"
+    },
+    {
+      "label": "Hard Disk Size",
+      "value": "1 TB"
+    },
+    {
+      "label": "CPU Model",
+      "value": "Intel Core Ultra 7"
+    },
+    {
+      "label": "Graphics Coprocessor",
+      "value": "NVIDIA GeForce RTX 4050"
+    },
+    {
+      "label": "Operating System",
+      "value": "Windows 11 Pro"
+    },
+    {
+      "label": "Item Weight",
+      "value": "4.2 pounds"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "13.6 x 9.1 x 0.71 inches"
+    },
+    {
+      "label": "Date First Available",
+      "value": "April 2, 2024"
+    }
+  ],
+  "compareTitle": "Compare with similar items",
+  "compareColumns": [
+    "This item\nXPS 15 OLED",
+    "MacBook Pro 14\nM3 Pro",
+    "HP ZBook Firefly 16"
+  ],
+  "compareRows": [
+    {
+      "label": "Price",
+      "values": [
+        "$1,849.99",
+        "$1,999.00",
+        "$1,679.00"
+      ]
+    },
+    {
+      "label": "Display",
+      "values": [
+        "15.6\" OLED",
+        "14.2\" Liquid Retina XDR",
+        "16\" IPS"
+      ]
+    },
+    {
+      "label": "RAM",
+      "values": [
+        "32 GB",
+        "18 GB",
+        "32 GB"
+      ]
+    },
+    {
+      "label": "Discrete GPU",
+      "values": [
+        "RTX 4050",
+        "N/A (M3 Pro)",
+        "RTX A500"
+      ]
+    },
+    {
+      "label": "Rating",
+      "values": [
+        "4.4 ★",
+        "4.8 ★",
+        "4.2 ★"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Tara N.",
+      "stars": 5,
+      "title": "OLED is stunning for Lightroom",
+      "date": "August 30, 2024",
+      "body": "Color is vivid and blacks are truly black. Fans stay quiet during photo edits; they spin up under Premiere exports as expected.",
+      "verified": true,
+      "helpfulVotes": 26,
+      "images": [
+        "https://placehold.co/150x150/f0f0f0/333333?text=XPS"
+      ]
+    },
+    {
+      "author": "Keith D.",
+      "stars": 4,
+      "title": "Powerful but needs the 130W brick when docking",
+      "date": "July 17, 2024",
+      "body": "USB-C charging works for light work. Under GPU load you want the full adapter or a high-wattage Thunderbolt dock.",
+      "verified": true,
+      "helpfulVotes": 15
+    },
+    {
+      "author": "Sofia L.",
+      "stars": 5,
+      "title": "Build quality feels premium",
+      "date": "June 25, 2024",
+      "body": "Keyboard and trackpad are excellent. Speakers are surprisingly loud for a thin laptop.",
+      "verified": true,
+      "helpfulVotes": 12
+    },
+    {
+      "author": "Marcus Y.",
+      "stars": 3,
+      "title": "Webcam is just okay",
+      "date": "May 14, 2024",
+      "body": "1080p webcam is average in low light. Studio Effects help, but lighting still matters.",
+      "verified": true,
+      "helpfulVotes": 8
+    }
+  ],
+  "qa": [
+    {
+      "question": "Can this run dual 4K monitors?",
+      "answer": "Yes via Thunderbolt dock or HDMI + Thunderbolt. Verify dock bandwidth for dual 4K@60.",
+      "meta": "6 answers · By Dell Support"
+    },
+    {
+      "question": "Is RAM upgradable?",
+      "answer": "No. LPDDR5x is soldered. Choose the 32GB or 64GB config at purchase.",
+      "meta": "11 answers · By Keith D."
+    }
+  ],
+  "relatedProducts": [
+    {
+      "title": "Dell Thunderbolt Dock WD22TB4",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Dock",
+      "stars": 4,
+      "price": 249.99
+    },
+    {
+      "title": "Dell Premier Sleeve 15",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Sleeve",
+      "stars": 4,
+      "price": 49.99
+    },
+    {
+      "title": "Logitech MX Master 3S",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Mouse",
+      "stars": 5,
+      "price": 99.99
+    },
+    {
+      "title": "Anker 140W USB-C Charger",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=140W",
+      "stars": 5,
+      "price": 69.99
+    }
+  ],
+  "merchant": {
+    "soldBy": "ScrapeOps Demo Store",
+    "fulfilledBy": "shipped by ShopFixture Logistics"
+  },
+  "delivery": {
+    "estimate": "Wednesday, September 24",
+    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
+  },
+  "coupon": "Apply $100.00 coupon",
+  "promo": "Get 6 months Microsoft 365 Personal included",
+  "climatePledge": {
+    "label": "Climate Pledge Friendly",
+    "detail": "Energy-efficient display modes and recyclable packaging options available."
+  },
+  "customersSay": {
+    "heading": "Customers say",
+    "summary": "Creators love the OLED panel and Thunderbolt docking. Webcam quality is average in dim rooms.",
+    "themes": [
+      {
+        "label": "OLED display",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Build quality",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Performance",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Webcam",
+        "sentiment": "mixed"
+      }
+    ]
+  },
+  "frequentlyBoughtTogether": {
+    "heading": "Frequently bought together",
+    "items": [
+      {
+        "title": "Dell XPS 15 OLED",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=XPS",
+        "price": 1849.99,
+        "checked": true
+      },
+      {
+        "title": "Thunderbolt Dock",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Dock",
+        "price": 249.99,
+        "checked": true
+      },
+      {
+        "title": "15\" sleeve",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Sleeve",
+        "price": 49.99,
+        "checked": true
+      }
+    ],
+    "totalPrice": 2149.97
+  },
+  "videos": [
+    {
+      "title": "Creator workflow on XPS 15",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Create",
+      "duration": "11:04"
+    },
+    {
+      "title": "Thermals under export",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Heat",
+      "duration": "7:33"
+    },
+    {
+      "title": "Port & dock overview",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Ports",
+      "duration": "4:50"
+    }
+  ],
+  "sellerDetail": {
+    "name": "ScrapeOps Computers",
+    "ratingPercent": 94,
+    "ratingsCount": 3560,
+    "shipsFrom": "ShopFixture Logistics",
+    "soldBy": "ScrapeOps Computers"
+  }
+}

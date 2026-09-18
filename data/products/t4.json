@@ -1,0 +1,126 @@
+{
+  "slug": "t4",
+  "title": "Samsung Galaxy Buds FE Wireless Earbuds, Graphite — Active Noise Cancellation, 30-Hour Battery with Case",
+  "brand": {
+    "name": "Samsung",
+    "url": "#"
+  },
+  "breadcrumbs": [
+    "Electronics",
+    "Headphones, Earbuds & Accessories",
+    "Earbud Headphones"
+  ],
+  "images": {
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Buds%2BFE",
+    "thumbnails": [
+      "https://placehold.co/80x80/f0f0f0/333333?text=1",
+      "https://placehold.co/80x80/f0f0f0/333333?text=2"
+    ]
+  },
+  "rating": {
+    "stars": 4.5,
+    "count": 14550,
+    "histogram": [
+      80,
+      11,
+      4,
+      3,
+      2
+    ]
+  },
+  "price": {
+    "current": 161.49,
+    "currency": "USD",
+    "list": 249
+  },
+  "availability": "In Stock",
+  "bullets": [
+    "Up to 2x more Active Noise Cancellation than the previous generation, plus Adaptive Audio that blends ANC and Transparency.",
+    "USB-C charging case with precision Find My speaker and lanyard loop; up to 30 hours total listening with the case.",
+    "Personalized Spatial Audio with dynamic head tracking for theater-like sound on Apple TV+, Music, and compatible apps."
+  ],
+  "description": [
+    "AirPods Pro 2 pair Apple's H2 chip with redesigned drivers for stronger noise cancellation and clearer call quality in wind."
+  ],
+  "specs": [
+    {
+      "label": "Brand",
+      "value": "Apple"
+    },
+    {
+      "label": "Item model number",
+      "value": "MTJV3AM/A"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Bluetooth"
+    },
+    {
+      "label": "Form Factor",
+      "value": "In Ear"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Megan B.",
+      "stars": 5,
+      "title": "Daily driver for commute + gym",
+      "date": "September 5, 2024",
+      "body": "ANC on the subway is excellent and they stay put during runs. USB-C case finally matches my iPhone cable.",
+      "verified": true
+    },
+    {
+      "author": "Luis G.",
+      "stars": 5,
+      "title": "Spatial Audio is immersive",
+      "date": "August 19, 2024",
+      "body": "Watching movies on the iPad with head tracking feels close to a mini theater. Transparency mode sounds natural.",
+      "verified": true
+    }
+  ],
+  "merchant": {
+    "soldBy": "ScrapeOps Demo Store",
+    "fulfilledBy": "shipped by ShopFixture Logistics"
+  },
+  "delivery": {
+    "estimate": "Tomorrow, September 19",
+    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
+  },
+  "aplus": {
+    "heading": "From the manufacturer",
+    "paragraphs": [
+      "Apple designs AirPods firmware and the H2 chip together for features like Adaptive Audio that rely on on-device machine learning."
+    ]
+  },
+  "compareTitle": "Compare with similar items",
+  "compareColumns": [
+    "This item\nAirPods Pro 2",
+    "Sony WF-1000XM5",
+    "Bose QuietComfort Ultra Earbuds"
+  ],
+  "compareRows": [
+    {
+      "label": "Price",
+      "values": [
+        "$189.99",
+        "$278.00",
+        "$299.00"
+      ]
+    },
+    {
+      "label": "ANC",
+      "values": [
+        "Excellent (Apple)",
+        "Excellent",
+        "Excellent"
+      ]
+    }
+  ],
+  "qa": [
+    {
+      "question": "Do these work with MagSafe chargers?",
+      "answer": "Yes. The USB-C AirPods Pro 2 case supports MagSafe and Qi wireless chargers in addition to USB-C.",
+      "meta": "15 answers · By Apple Support"
+    }
+  ]
+}

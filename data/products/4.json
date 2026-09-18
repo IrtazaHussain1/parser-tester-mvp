@@ -1,0 +1,319 @@
+{
+  "slug": "4",
+  "title": "Apple AirPods Pro (2nd Generation) Wireless Earbuds with USB-C Charging, Active Noise Cancellation, Transparency Mode, Personalized Spatial Audio",
+  "brand": {
+    "name": "Apple",
+    "url": "#"
+  },
+  "breadcrumbs": [
+    "Electronics",
+    "Headphones, Earbuds & Accessories",
+    "Earbud Headphones"
+  ],
+  "images": {
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=AirPods%2BPro2",
+    "thumbnails": [
+      "https://placehold.co/80x80/f0f0f0/333333?text=1",
+      "https://placehold.co/80x80/f0f0f0/333333?text=2",
+      "https://placehold.co/80x80/f0f0f0/333333?text=3",
+      "https://placehold.co/80x80/f0f0f0/333333?text=4",
+      "https://placehold.co/80x80/f0f0f0/333333?text=5"
+    ]
+  },
+  "rating": {
+    "stars": 4.7,
+    "count": 58201,
+    "histogram": [
+      80,
+      11,
+      4,
+      3,
+      2
+    ]
+  },
+  "price": {
+    "current": 189.99,
+    "list": 249,
+    "currency": "USD"
+  },
+  "availability": "In Stock",
+  "bullets": [
+    "Up to 2x more Active Noise Cancellation than the previous generation, plus Adaptive Audio that blends ANC and Transparency.",
+    "USB-C charging case with precision Find My speaker and lanyard loop; up to 30 hours total listening with the case.",
+    "Personalized Spatial Audio with dynamic head tracking for theater-like sound on Apple TV+, Music, and compatible apps.",
+    "Touch control for playback, calls, and ANC modes; sweat and water resistant (IP54) earbuds and case.",
+    "Conversation Awareness lowers media volume when you start speaking to someone nearby.",
+    "Seamless pairing across iPhone, iPad, Mac, and Apple Watch with automatic device switching.",
+    "Includes four silicone tip sizes (XS, S, M, L) for a better seal and noise isolation."
+  ],
+  "description": [
+    "AirPods Pro 2 pair Apple's H2 chip with redesigned drivers for stronger noise cancellation and clearer call quality in wind.",
+    "Adaptive Audio responds to your environment — quieter on the train, more ambient awareness when you walk city streets.",
+    "The USB-C case charges from the same cable as recent iPhone models and supports MagSafe and Apple Watch chargers."
+  ],
+  "aplus": {
+    "heading": "From the manufacturer",
+    "paragraphs": [
+      "Apple designs AirPods firmware and the H2 chip together for features like Adaptive Audio that rely on on-device machine learning.",
+      "Hearing Test and Hearing Aid features (availability varies by region) expand Pro 2 beyond music and calls."
+    ]
+  },
+  "variantOptions": [
+    {
+      "dimension": "Style",
+      "options": [
+        {
+          "value": "USB-C Case",
+          "isSelected": true,
+          "price": 189.99
+        },
+        {
+          "value": "with MagSafe Case (Lightning)",
+          "isSelected": false,
+          "price": 179.99,
+          "availability": "Only 3 left"
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "label": "Brand",
+      "value": "Apple"
+    },
+    {
+      "label": "Item model number",
+      "value": "MTJV3AM/A"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Bluetooth"
+    },
+    {
+      "label": "Form Factor",
+      "value": "In Ear"
+    },
+    {
+      "label": "Noise Control",
+      "value": "Active Noise Cancellation"
+    },
+    {
+      "label": "Item Weight",
+      "value": "1.87 ounces"
+    },
+    {
+      "label": "Batteries",
+      "value": "3 Lithium Ion batteries (included)"
+    },
+    {
+      "label": "Date First Available",
+      "value": "September 22, 2023"
+    }
+  ],
+  "compareTitle": "Compare with similar items",
+  "compareColumns": [
+    "This item\nAirPods Pro 2",
+    "Sony WF-1000XM5",
+    "Bose QuietComfort Ultra Earbuds"
+  ],
+  "compareRows": [
+    {
+      "label": "Price",
+      "values": [
+        "$189.99",
+        "$278.00",
+        "$299.00"
+      ]
+    },
+    {
+      "label": "ANC",
+      "values": [
+        "Excellent (Apple)",
+        "Excellent",
+        "Excellent"
+      ]
+    },
+    {
+      "label": "Case charging",
+      "values": [
+        "USB-C / MagSafe",
+        "USB-C",
+        "USB-C"
+      ]
+    },
+    {
+      "label": "Spatial audio",
+      "values": [
+        "Personalized",
+        "360 Reality",
+        "Immersive"
+      ]
+    },
+    {
+      "label": "Rating",
+      "values": [
+        "4.7 ★",
+        "4.6 ★",
+        "4.3 ★"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Megan B.",
+      "stars": 5,
+      "title": "Daily driver for commute + gym",
+      "date": "September 5, 2024",
+      "body": "ANC on the subway is excellent and they stay put during runs. USB-C case finally matches my iPhone cable.",
+      "verified": true,
+      "helpfulVotes": 88,
+      "images": [
+        "https://placehold.co/150x150/f0f0f0/333333?text=APP2",
+        "https://placehold.co/150x150/f0f0f0/333333?text=Case"
+      ]
+    },
+    {
+      "author": "Luis G.",
+      "stars": 5,
+      "title": "Spatial Audio is immersive",
+      "date": "August 19, 2024",
+      "body": "Watching movies on the iPad with head tracking feels close to a mini theater. Transparency mode sounds natural.",
+      "verified": true,
+      "helpfulVotes": 41
+    },
+    {
+      "author": "Hannah J.",
+      "stars": 4,
+      "title": "Great earbuds, tips take experimentation",
+      "date": "July 8, 2024",
+      "body": "Stock M tips leaked sound for me. XS sealed better and ANC improved immediately. Do the fit test in Settings.",
+      "verified": true,
+      "helpfulVotes": 29
+    },
+    {
+      "author": "Owen C.",
+      "stars": 3,
+      "title": "Android pairing is basic",
+      "date": "June 1, 2024",
+      "body": "They work as Bluetooth headphones on Pixel but you lose seamless switching and Precise Find My. Fine if you are in Apple ecosystem.",
+      "verified": true,
+      "helpfulVotes": 33
+    }
+  ],
+  "qa": [
+    {
+      "question": "Do these work with MagSafe chargers?",
+      "answer": "Yes. The USB-C AirPods Pro 2 case supports MagSafe and Qi wireless chargers in addition to USB-C.",
+      "meta": "15 answers · By Apple Support"
+    },
+    {
+      "question": "Is the Lightning version different sonically?",
+      "answer": "No. Audio and ANC are the same; the case connector is the main difference.",
+      "meta": "7 answers · By Megan B."
+    }
+  ],
+  "relatedProducts": [
+    {
+      "title": "Apple AirPods Pro Ear Tips (5 sizes)",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Tips",
+      "stars": 4,
+      "price": 19.99
+    },
+    {
+      "title": "ESR MagSafe Case Cover",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Cover",
+      "stars": 4,
+      "price": 14.99
+    },
+    {
+      "title": "AppleCare+ for Headphones",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=AC%2B",
+      "stars": 4,
+      "price": 29
+    },
+    {
+      "title": "Anker MagGo Wireless Charger",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=MagGo",
+      "stars": 5,
+      "price": 27.99
+    }
+  ],
+  "merchant": {
+    "soldBy": "ScrapeOps Demo Store",
+    "fulfilledBy": "shipped by ShopFixture Logistics"
+  },
+  "delivery": {
+    "estimate": "Tomorrow, September 19",
+    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
+  },
+  "promo": "No-cost AppleCare+ available at checkout for eligible buyers",
+  "climatePledge": {
+    "label": "Climate Pledge Friendly",
+    "detail": "Packaging uses fiber-based materials instead of plastic trays where possible."
+  },
+  "customersSay": {
+    "heading": "Customers say",
+    "summary": "Buyers highlight ANC for commuting and seamless Apple switching. Tip fit varies by ear shape.",
+    "themes": [
+      {
+        "label": "ANC",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Spatial Audio",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Case (USB-C)",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Ear tip fit",
+        "sentiment": "mixed"
+      }
+    ]
+  },
+  "frequentlyBoughtTogether": {
+    "heading": "Frequently bought together",
+    "items": [
+      {
+        "title": "AirPods Pro 2 USB-C",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=APP2",
+        "price": 189.99,
+        "checked": true
+      },
+      {
+        "title": "Silicone tip set",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Tips",
+        "price": 19.99,
+        "checked": true
+      },
+      {
+        "title": "Case cover",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Cover",
+        "price": 14.99,
+        "checked": false
+      }
+    ],
+    "totalPrice": 224.97
+  },
+  "videos": [
+    {
+      "title": "Fit test walkthrough",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Fit",
+      "duration": "3:11"
+    },
+    {
+      "title": "ANC commute demo",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Ride",
+      "duration": "2:29"
+    }
+  ],
+  "sellerDetail": {
+    "name": "ScrapeOps Demo Store",
+    "ratingPercent": 97,
+    "ratingsCount": 22011,
+    "shipsFrom": "ShopFixture Logistics",
+    "soldBy": "ScrapeOps Demo Store"
+  }
+}

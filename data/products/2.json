@@ -1,0 +1,328 @@
+{
+  "slug": "2",
+  "title": "Sony WH-1000XM5 Wireless Industry Leading Noise Canceling Headphones, Black — 30 Hour Battery, Multipoint Connection, Speak-to-Chat",
+  "brand": {
+    "name": "Sony",
+    "url": "#"
+  },
+  "breadcrumbs": [
+    "Electronics",
+    "Headphones, Earbuds & Accessories",
+    "Headphones",
+    "Over-Ear Headphones"
+  ],
+  "images": {
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=WH-1000XM5",
+    "thumbnails": [
+      "https://placehold.co/80x80/f0f0f0/333333?text=1",
+      "https://placehold.co/80x80/f0f0f0/333333?text=2",
+      "https://placehold.co/80x80/f0f0f0/333333?text=3",
+      "https://placehold.co/80x80/f0f0f0/333333?text=4",
+      "https://placehold.co/80x80/f0f0f0/333333?text=5"
+    ]
+  },
+  "rating": {
+    "stars": 4.7,
+    "count": 31204,
+    "histogram": [
+      78,
+      12,
+      5,
+      3,
+      2
+    ]
+  },
+  "price": {
+    "current": 328,
+    "list": 399.99,
+    "currency": "USD"
+  },
+  "availability": "In Stock",
+  "bullets": [
+    "Industry-leading noise cancellation with eight microphones and the Integrated Processor V1 for quieter flights and offices.",
+    "Up to 30 hours of battery life with Quick Attention and Speak-to-Chat so you can talk without removing the headset.",
+    "Multipoint Bluetooth connects two devices at once — switch from laptop calls to phone music without re-pairing.",
+    "Crystal-clear hands-free calling with AI-based noise reduction tuned for windy outdoor environments.",
+    "Soft fit leather and lighter weight than WH-1000XM4 for all-day wear without hot spots.",
+    "Foldable design with a compact carry case included for travel.",
+    "Compatible with the Sony Headphones Connect app for EQ, adaptive sound control, and firmware updates."
+  ],
+  "description": [
+    "The WH-1000XM5 is Sony's flagship over-ear noise canceling headphone aimed at frequent travelers and remote workers who need silence without sacrificing audio detail.",
+    "Auto NC Optimizer adjusts cancellation when you wear glasses or change altitude on a plane. 360 Reality Audio support widens the soundstage on compatible tracks.",
+    "Touch controls on the right ear cup handle playback, volume, and NC/Ambient switching. Multipoint keeps a work laptop and phone connected simultaneously."
+  ],
+  "aplus": {
+    "heading": "From the manufacturer",
+    "paragraphs": [
+      "Sony has refined the 1000X series across five generations with a focus on noise canceling algorithms and comfort.",
+      "Firmware updates via Headphones Connect continue to add features after purchase."
+    ]
+  },
+  "variantOptions": [
+    {
+      "dimension": "Color",
+      "options": [
+        {
+          "value": "Black",
+          "isSelected": true,
+          "price": 328
+        },
+        {
+          "value": "Silver",
+          "isSelected": false,
+          "price": 328
+        },
+        {
+          "value": "Midnight Blue",
+          "isSelected": false,
+          "price": 348
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "label": "Brand",
+      "value": "Sony"
+    },
+    {
+      "label": "Item model number",
+      "value": "WH1000XM5/B"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Wireless"
+    },
+    {
+      "label": "Form Factor",
+      "value": "Over Ear"
+    },
+    {
+      "label": "Noise Control",
+      "value": "Active Noise Cancellation"
+    },
+    {
+      "label": "Item Weight",
+      "value": "8.8 ounces"
+    },
+    {
+      "label": "Batteries",
+      "value": "1 Lithium Ion battery (included)"
+    },
+    {
+      "label": "Product Dimensions",
+      "value": "7.2 x 3.0 x 10.1 inches"
+    },
+    {
+      "label": "Date First Available",
+      "value": "May 20, 2022"
+    }
+  ],
+  "compareTitle": "Compare with similar items",
+  "compareColumns": [
+    "This item\nWH-1000XM5",
+    "Bose QC Ultra\nHeadphones",
+    "Apple AirPods Max"
+  ],
+  "compareRows": [
+    {
+      "label": "Price",
+      "values": [
+        "$328.00",
+        "$429.00",
+        "$549.00"
+      ]
+    },
+    {
+      "label": "Battery life",
+      "values": [
+        "30 hours",
+        "24 hours",
+        "20 hours"
+      ]
+    },
+    {
+      "label": "Multipoint",
+      "values": [
+        "Yes",
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "label": "Weight",
+      "values": [
+        "8.8 oz",
+        "8.8 oz",
+        "13.6 oz"
+      ]
+    },
+    {
+      "label": "Rating",
+      "values": [
+        "4.7 ★",
+        "4.4 ★",
+        "4.5 ★"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Chris L.",
+      "stars": 5,
+      "title": "Flight essential",
+      "date": "September 1, 2024",
+      "body": "NC on a transatlantic flight was dramatically better than my XM3s. Speak-to-Chat is surprisingly natural once you enable it in the app.",
+      "verified": true,
+      "helpfulVotes": 55,
+      "images": [
+        "https://placehold.co/150x150/f0f0f0/333333?text=XM5-1"
+      ]
+    },
+    {
+      "author": "Nina V.",
+      "stars": 5,
+      "title": "Comfortable for 8-hour workdays",
+      "date": "August 14, 2024",
+      "body": "I wear these on back-to-back Zoom calls. Clamping force is gentler than XM4 and the mic quality gets compliments from coworkers.",
+      "verified": true,
+      "helpfulVotes": 31
+    },
+    {
+      "author": "Omar H.",
+      "stars": 4,
+      "title": "Great ANC, average case",
+      "date": "July 22, 2024",
+      "body": "Sound and canceling are excellent. The case is bulkier than I hoped for a personal-item bag, but that is a minor nit.",
+      "verified": true,
+      "helpfulVotes": 14
+    },
+    {
+      "author": "Elena P.",
+      "stars": 3,
+      "title": "Touch controls too sensitive",
+      "date": "June 3, 2024",
+      "body": "I accidentally pause tracks when adjusting the fit. You can remap some gestures in the app which helped.",
+      "verified": true,
+      "helpfulVotes": 22
+    }
+  ],
+  "qa": [
+    {
+      "question": "Can I use these wired?",
+      "answer": "Yes. A 3.5 mm cable is included. ANC can still run while wired if the battery has charge.",
+      "meta": "8 answers · By Sony Support"
+    },
+    {
+      "question": "Do they work with airplane entertainment systems?",
+      "answer": "Yes with the included cable. Some airlines need a dual-prong adapter which is not included.",
+      "meta": "5 answers · By Chris L."
+    }
+  ],
+  "relatedProducts": [
+    {
+      "title": "Sony WF-1000XM5 Earbuds",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=WF",
+      "stars": 5,
+      "price": 278
+    },
+    {
+      "title": "Sony Ultimate Carry Case",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Case",
+      "stars": 4,
+      "price": 29.99
+    },
+    {
+      "title": "Geekria Sheepskin Earpads",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Pads",
+      "stars": 4,
+      "price": 18.99
+    },
+    {
+      "title": "Airplane Headphone Adapter",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Adapter",
+      "stars": 4,
+      "price": 8.99
+    }
+  ],
+  "merchant": {
+    "soldBy": "ScrapeOps Demo Store",
+    "fulfilledBy": "shipped by ShopFixture Logistics"
+  },
+  "delivery": {
+    "estimate": "Monday, September 21",
+    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
+  },
+  "coupon": "Apply $30.00 coupon",
+  "promo": "Save $20 on select Sony audio accessories",
+  "climatePledge": {
+    "label": "Climate Pledge Friendly",
+    "detail": "Recycled materials used in packaging where available."
+  },
+  "customersSay": {
+    "heading": "Customers say",
+    "summary": "Shoppers praise noise canceling and comfort on long flights. A few find touch controls finicky.",
+    "themes": [
+      {
+        "label": "Noise canceling",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Comfort",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Battery life",
+        "sentiment": "positive"
+      },
+      {
+        "label": "Touch controls",
+        "sentiment": "mixed"
+      }
+    ]
+  },
+  "frequentlyBoughtTogether": {
+    "heading": "Frequently bought together",
+    "items": [
+      {
+        "title": "Sony WH-1000XM5",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=XM5",
+        "price": 328,
+        "checked": true
+      },
+      {
+        "title": "Replacement earpads",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Pads",
+        "price": 18.99,
+        "checked": true
+      },
+      {
+        "title": "Airplane adapter",
+        "image": "https://placehold.co/200x200/f0f0f0/333333?text=Adapter",
+        "price": 8.99,
+        "checked": false
+      }
+    ],
+    "totalPrice": 355.98
+  },
+  "videos": [
+    {
+      "title": "XM5 vs XM4 comparison",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=Cmp",
+      "duration": "8:01"
+    },
+    {
+      "title": "Office ANC test",
+      "thumbnail": "https://placehold.co/320x180/f0f0f0/333333?text=ANC",
+      "duration": "3:22"
+    }
+  ],
+  "sellerDetail": {
+    "name": "ScrapeOps Audio Hub",
+    "ratingPercent": 98,
+    "ratingsCount": 9021,
+    "shipsFrom": "ShopFixture Logistics",
+    "soldBy": "ScrapeOps Audio Hub"
+  }
+}

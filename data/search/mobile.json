@@ -1,0 +1,576 @@
+{
+  "slug": "mobile",
+  "searchMetadata": {
+    "query": "mobile",
+    "totalResults": 100000,
+    "resultsDisplayed": 10,
+    "searchUrl": "https://www.shopfixture.test/s?k=mobile",
+    "searchType": "keyword"
+  },
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 10000,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=mobile&page=2"
+  },
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://www.shopfixture.test/"
+    },
+    {
+      "name": "Electronics",
+      "url": "https://www.shopfixture.test/electronics"
+    },
+    {
+      "name": "mobile",
+      "url": "https://www.shopfixture.test/s?k=mobile"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "searchTerm": "unlocked smartphones",
+      "url": "https://www.shopfixture.test/s?k=unlocked%20smartphones"
+    },
+    {
+      "searchTerm": "pixel 11",
+      "url": "https://www.shopfixture.test/s?k=pixel%2011"
+    },
+    {
+      "searchTerm": "galaxy s24",
+      "url": "https://www.shopfixture.test/s?k=galaxy%20s24"
+    },
+    {
+      "searchTerm": "iphone 15",
+      "url": "https://www.shopfixture.test/s?k=iphone%2015"
+    },
+    {
+      "searchTerm": "phone cases",
+      "url": "https://www.shopfixture.test/s?k=phone%20cases"
+    },
+    {
+      "searchTerm": "5g mobile",
+      "url": "https://www.shopfixture.test/s?k=5g%20mobile"
+    }
+  ],
+  "products": [
+    {
+      "name": "Google Pixel 11 - Unlocked Smartphone, Gemini - 256 GB - Obsidian | 6.3\" Actua Display, IP68",
+      "productId": "B0MOB0001",
+      "url": "https://www.shopfixture.test/dp/B0MOB0001",
+      "brand": "Google",
+      "price": 899,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Google%20Pixel%2011%20-%20Unlocked%20S",
+          "altText": "Google Pixel 11 - Unlocked Smartphone, Gemini - 256 GB - Obsidian | 6.3\" Actua Display, IP68"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "preDiscountPrice": 999,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 28,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Amazon's Choice"
+        }
+      ],
+      "description": "Unlocked Android flagship with on-device Gemini features.",
+      "keyFeatures": [
+        "256 GB storage",
+        "30+ hour battery",
+        "IP68"
+      ],
+      "variants": {
+        "variantCount": 3,
+        "visibleOptions": [
+          {
+            "type": "color",
+            "value": "Obsidian",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Obsidian"
+          },
+          {
+            "type": "color",
+            "value": "Hibiscus",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Hibiscus"
+          },
+          {
+            "type": "color",
+            "value": "Frost",
+            "imageUrl": "https://placehold.co/40x40/f0f0f0/333333?text=Frost"
+          }
+        ]
+      },
+      "additionalImages": [
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Hibiscus",
+          "altText": "Google Hibiscus"
+        },
+        {
+          "url": "https://placehold.co/120x120/f0f0f0/333333?text=Frost",
+          "altText": "Google Frost"
+        }
+      ]
+    },
+    {
+      "name": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Super Actua, 120x Zoom",
+      "productId": "B0MOB0002",
+      "url": "https://www.shopfixture.test/dp/B0MOB0002",
+      "brand": "Google",
+      "price": 1069,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Google%20Pixel%2011%20Pro%20-%20Unlock",
+          "altText": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Super Actua, 120x Zoom"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "preDiscountPrice": 1099,
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 59,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "description": "Pro camera zoom and brighter Super Actua display.",
+      "keyFeatures": [
+        "120x Zoom",
+        "IP68",
+        "Gemini"
+      ]
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra Unlocked, 256GB, Titanium Black — 200MP Camera, S Pen",
+      "productId": "B0MOB0003",
+      "url": "https://www.shopfixture.test/dp/B0MOB0003",
+      "brand": "Samsung",
+      "price": 999.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Samsung%20Galaxy%20S24%20Ultra%20Unl",
+          "altText": "Samsung Galaxy S24 Ultra Unlocked, 256GB, Titanium Black — 200MP Camera, S Pen"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "preDiscountPrice": 1299.99,
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 12840,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 23"
+      },
+      "badges": [
+        {
+          "type": "bestseller",
+          "label": "Best Seller"
+        }
+      ],
+      "description": "S Pen productivity with a 200MP main camera.",
+      "keyFeatures": [
+        "S Pen",
+        "200MP",
+        "AI edit"
+      ],
+      "isSponsored": true
+    },
+    {
+      "name": "Apple iPhone 15, 128GB, Black — Unlocked (Renewed Premium)",
+      "productId": "B0MOB0004",
+      "url": "https://www.shopfixture.test/dp/B0MOB0004",
+      "brand": "Apple",
+      "price": 649,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20iPhone%2015",
+          "altText": "Apple iPhone 15, 128GB, Black — Unlocked (Renewed Premium)"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Renewed Phones",
+      "preDiscountPrice": 799,
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 5621,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Sep 24"
+      },
+      "description": "Renewed Premium iPhone 15 with USB-C.",
+      "keyFeatures": [
+        "128 GB",
+        "A16 Bionic",
+        "USB-C"
+      ]
+    },
+    {
+      "name": "Google Pixel 8a - Unlocked Android Phone - 128 GB - Aloe — 64MP camera",
+      "productId": "B0MOB0005",
+      "url": "https://www.shopfixture.test/dp/B0MOB0005",
+      "brand": "Google",
+      "price": 399,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Google%20Pixel%208a%20-%20Unlocked%20A",
+          "altText": "Google Pixel 8a - Unlocked Android Phone - 128 GB - Aloe — 64MP camera"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "preDiscountPrice": 499,
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 8932,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "deal",
+          "label": "Overall Pick"
+        }
+      ],
+      "description": "Affordable Pixel with long software support.",
+      "keyFeatures": [
+        "64MP",
+        "7 years updates"
+      ]
+    },
+    {
+      "name": "Motorola Edge 2024 Unlocked, 256GB, Black Beauty — 144Hz pOLED",
+      "productId": "B0MOB0006",
+      "url": "https://www.shopfixture.test/dp/B0MOB0006",
+      "brand": "Motorola",
+      "price": 449.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Motorola%20Edge%202024%20Unlocked",
+          "altText": "Motorola Edge 2024 Unlocked, 256GB, Black Beauty — 144Hz pOLED"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 2104,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Thu, Sep 25"
+      },
+      "description": "Smooth 144Hz display and clean software."
+    },
+    {
+      "name": "OnePlus 12 Unlocked, 256GB, Silky Black — Snapdragon 8 Gen 3, 100W charging",
+      "productId": "B0MOB0007",
+      "url": "https://www.shopfixture.test/dp/B0MOB0007",
+      "brand": "OnePlus",
+      "price": 699,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=OnePlus%2012%20Unlocked",
+          "altText": "OnePlus 12 Unlocked, 256GB, Silky Black — Snapdragon 8 Gen 3, 100W charging"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "preDiscountPrice": 799,
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 1877,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tue, Sep 23"
+      },
+      "description": "Flagship performance with ultra-fast charging."
+    },
+    {
+      "name": "Samsung Galaxy A35 5G Unlocked, 128GB, Awesome Navy — Super AMOLED",
+      "productId": "B0MOB0008",
+      "url": "https://www.shopfixture.test/dp/B0MOB0008",
+      "brand": "Samsung",
+      "price": 279.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Samsung%20Galaxy%20A35%205G%20Unlock",
+          "altText": "Samsung Galaxy A35 5G Unlocked, 128GB, Awesome Navy — Super AMOLED"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 3401,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Sep 24"
+      },
+      "description": "Midrange AMOLED phone for everyday use."
+    },
+    {
+      "name": "Nothing Phone (2a) Unlocked, 128GB, Black — Glyph Interface, 120Hz AMOLED",
+      "productId": "B0MOB0009",
+      "url": "https://www.shopfixture.test/dp/B0MOB0009",
+      "brand": "Nothing",
+      "price": 299,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Nothing%20Phone%20(2a)%20Unlocked",
+          "altText": "Nothing Phone (2a) Unlocked, 128GB, Black — Glyph Interface, 120Hz AMOLED"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Unlocked Cell Phones",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 956,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Fri, Sep 26"
+      },
+      "description": "Glyph lighting and unique design language."
+    },
+    {
+      "name": "SUPCASE for Samsung Galaxy S24 Ultra Case with Built-in Stand, Black | MagSafe Compatible",
+      "productId": "B0MOB0010",
+      "url": "https://www.shopfixture.test/dp/B0MOB0010",
+      "brand": "SUPCASE",
+      "price": 34.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=SUPCASE%20for%20Samsung%20Galaxy%20S",
+          "altText": "SUPCASE for Samsung Galaxy S24 Ultra Case with Built-in Stand, Black | MagSafe Compatible"
+        }
+      ],
+      "availability": "in_stock",
+      "category": "Phone Cases",
+      "preDiscountPrice": 39.99,
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 1074,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "limited_time",
+          "label": "Limited time deal"
+        }
+      ],
+      "description": "Military-grade protection with kickstand.",
+      "promotions": [
+        {
+          "type": "percentage_off",
+          "description": "Limited time deal",
+          "discountPercentage": 10
+        }
+      ]
+    }
+  ],
+  "sponsoredProducts": [
+    {
+      "name": "Google Pixel Case (Obsidian)",
+      "url": "https://www.shopfixture.test/dp/B0SPMOB1",
+      "price": 34.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Google",
+        "altText": "Google Pixel Case (Obsidian)"
+      },
+      "sponsorInfo": {
+        "advertiser": "Google",
+        "campaignType": "Brand"
+      }
+    },
+    {
+      "name": "Anker 30W USB-C Charger",
+      "url": "https://www.shopfixture.test/dp/B0SPMOB2",
+      "price": 19.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Anker",
+        "altText": "Anker 30W USB-C Charger"
+      },
+      "sponsorInfo": {
+        "advertiser": "Anker",
+        "campaignType": "Product"
+      }
+    },
+    {
+      "name": "Spigen Tough Armor for Pixel",
+      "url": "https://www.shopfixture.test/dp/B0SPMOB3",
+      "price": 21.99,
+      "currency": "USD",
+      "image": {
+        "url": "https://placehold.co/220x180/f0f0f0/333333?text=Spigen",
+        "altText": "Spigen Tough Armor for Pixel"
+      },
+      "sponsorInfo": {
+        "advertiser": "Spigen",
+        "campaignType": "Product"
+      }
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": [
+      {
+        "name": "Pixel Case",
+        "url": "https://www.shopfixture.test/dp/REC-Case",
+        "price": 34.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Case"
+      },
+      {
+        "name": "USB-C Charger 30W",
+        "url": "https://www.shopfixture.test/dp/REC-30W",
+        "price": 19.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=30W"
+      },
+      {
+        "name": "Screen Protector",
+        "url": "https://www.shopfixture.test/dp/REC-Glass",
+        "price": 12.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Glass"
+      },
+      {
+        "name": "MagSafe Wallet",
+        "url": "https://www.shopfixture.test/dp/REC-Wallet",
+        "price": 29.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Wallet"
+      },
+      {
+        "name": "Wireless Buds",
+        "url": "https://www.shopfixture.test/dp/REC-Buds",
+        "price": 79.99,
+        "currency": "USD",
+        "imageUrl": "https://placehold.co/220x180/f0f0f0/333333?text=Buds"
+      }
+    ]
+  },
+  "filters": [
+    {
+      "title": "Department",
+      "options": [
+        {
+          "label": "Cell Phones & Accessories",
+          "checked": true,
+          "count": 42000
+        },
+        {
+          "label": "Electronics",
+          "count": 88000
+        }
+      ]
+    },
+    {
+      "title": "Brands",
+      "options": [
+        {
+          "label": "Google",
+          "checked": true,
+          "count": 120
+        },
+        {
+          "label": "Samsung",
+          "count": 840
+        },
+        {
+          "label": "Apple",
+          "count": 410
+        }
+      ]
+    },
+    {
+      "title": "Customer Reviews",
+      "options": [
+        {
+          "label": "4 Stars & Up",
+          "count": 21000
+        }
+      ]
+    }
+  ],
+  "sortOptions": [
+    "Featured",
+    "Price: Low to High",
+    "Price: High to Low",
+    "Avg. Customer Review",
+    "Newest Arrivals",
+    "Best Sellers"
+  ],
+  "selectedSort": "Featured",
+  "editorialBanner": {
+    "title": "Early phone deals",
+    "body": "Save on unlocked flagships and certified refurbished models.",
+    "cta": "Shop phone deals"
+  },
+  "brandSpotlight": {
+    "brand": "Google",
+    "tagline": "Meet the new Pixel lineup — Gemini on device, long battery life.",
+    "cta": "Shop Google"
+  }
+}

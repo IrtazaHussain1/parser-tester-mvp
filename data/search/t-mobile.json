@@ -1,0 +1,120 @@
+{
+  "slug": "t-mobile",
+  "searchMetadata": {
+    "query": "mobile",
+    "totalResults": 20000,
+    "resultsDisplayed": 4,
+    "searchUrl": "https://www.shopfixture.test/s?k=mobile",
+    "searchType": "keyword"
+  },
+  "products": [
+    {
+      "name": "Google Pixel 11 - Unlocked Smartphone, Gemini - 256 GB - Obsidian | 6.3\" Actua Display, IP68",
+      "productId": "B0MOB0001",
+      "url": "https://www.shopfixture.test/dp/B0MOB0001",
+      "brand": "Google",
+      "price": 899,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Google%20Pixel%2011%20-%20Unlocked%20S",
+          "altText": "Google Pixel 11 - Unlocked Smartphone, Gemini - 256 GB - Obsidian | 6.3\" Actua Display, IP68"
+        }
+      ],
+      "availability": "in_stock",
+      "preDiscountPrice": 999,
+      "aggregateRating": {
+        "ratingValue": 4.6,
+        "reviewCount": 28,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      },
+      "badges": [
+        {
+          "type": "choice",
+          "label": "Amazon's Choice"
+        }
+      ]
+    },
+    {
+      "name": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Super Actua, 120x Zoom",
+      "productId": "B0MOB0002",
+      "url": "https://www.shopfixture.test/dp/B0MOB0002",
+      "price": 1069,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Google%20Pixel%2011%20Pro%20-%20Unlock",
+          "altText": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Super Actua, 120x Zoom"
+        }
+      ],
+      "availability": "in_stock",
+      "preDiscountPrice": 1099,
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 59,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Tomorrow"
+      }
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra Unlocked, 256GB, Titanium Black — 200MP Camera, S Pen",
+      "productId": "B0MOB0003",
+      "url": "https://www.shopfixture.test/dp/B0MOB0003",
+      "brand": "Samsung",
+      "price": 999.99,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Samsung%20Galaxy%20S24%20Ultra%20Unl",
+          "altText": "Samsung Galaxy S24 Ultra Unlocked, 256GB, Titanium Black — 200MP Camera, S Pen"
+        }
+      ],
+      "availability": "in_stock",
+      "isSponsored": true
+    },
+    {
+      "name": "Apple iPhone 15, 128GB, Black — Unlocked (Renewed Premium)",
+      "productId": "B0MOB0004",
+      "url": "https://www.shopfixture.test/dp/B0MOB0004",
+      "brand": "Apple",
+      "price": 649,
+      "currency": "USD",
+      "images": [
+        {
+          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20iPhone%2015",
+          "altText": "Apple iPhone 15, 128GB, Black — Unlocked (Renewed Premium)"
+        }
+      ],
+      "availability": "in_stock",
+      "preDiscountPrice": 799,
+      "aggregateRating": {
+        "ratingValue": 4.4,
+        "reviewCount": 5621,
+        "bestPossibleRating": 5,
+        "worstPossibleRating": 1
+      },
+      "shipping": {
+        "prime": true,
+        "freeShipping": true,
+        "estimatedDelivery": "FREE delivery Wed, Sep 24"
+      }
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://www.shopfixture.test/s?k=mobile&page=2"
+  }
+}

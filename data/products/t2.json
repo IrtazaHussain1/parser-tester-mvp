@@ -1,0 +1,116 @@
+{
+  "slug": "t2",
+  "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones, Black — Immersive Audio, 24-Hour Battery",
+  "brand": {
+    "name": "Bose",
+    "url": "#"
+  },
+  "breadcrumbs": [
+    "Electronics",
+    "Headphones, Earbuds & Accessories",
+    "Headphones"
+  ],
+  "images": {
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=QC%2BUltra",
+    "thumbnails": [
+      "https://placehold.co/80x80/f0f0f0/333333?text=1",
+      "https://placehold.co/80x80/f0f0f0/333333?text=2"
+    ]
+  },
+  "rating": {
+    "stars": 4.5,
+    "count": 7801,
+    "histogram": [
+      78,
+      12,
+      5,
+      3,
+      2
+    ]
+  },
+  "price": {
+    "current": 278.8,
+    "currency": "USD",
+    "list": 399.99
+  },
+  "availability": "In Stock",
+  "bullets": [
+    "Industry-leading noise cancellation with eight microphones and the Integrated Processor V1 for quieter flights and offices.",
+    "Up to 30 hours of battery life with Quick Attention and Speak-to-Chat so you can talk without removing the headset.",
+    "Multipoint Bluetooth connects two devices at once — switch from laptop calls to phone music without re-pairing."
+  ],
+  "description": [
+    "The WH-1000XM5 is Sony's flagship over-ear noise canceling headphone aimed at frequent travelers and remote workers who need silence without sacrificing audio detail."
+  ],
+  "specs": [
+    {
+      "label": "Brand",
+      "value": "Sony"
+    },
+    {
+      "label": "Item model number",
+      "value": "WH1000XM5/B"
+    },
+    {
+      "label": "Connectivity Technology",
+      "value": "Wireless"
+    },
+    {
+      "label": "Form Factor",
+      "value": "Over Ear"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Chris L.",
+      "stars": 5,
+      "title": "Flight essential",
+      "date": "September 1, 2024",
+      "body": "NC on a transatlantic flight was dramatically better than my XM3s. Speak-to-Chat is surprisingly natural once you enable it in the app.",
+      "verified": true
+    },
+    {
+      "author": "Nina V.",
+      "stars": 5,
+      "title": "Comfortable for 8-hour workdays",
+      "date": "August 14, 2024",
+      "body": "I wear these on back-to-back Zoom calls. Clamping force is gentler than XM4 and the mic quality gets compliments from coworkers.",
+      "verified": true
+    }
+  ],
+  "merchant": {
+    "soldBy": "ScrapeOps Demo Store",
+    "fulfilledBy": "shipped by ShopFixture Logistics"
+  },
+  "delivery": {
+    "estimate": "Monday, September 21"
+  },
+  "aplus": {
+    "heading": "From the manufacturer",
+    "paragraphs": [
+      "Sony has refined the 1000X series across five generations with a focus on noise canceling algorithms and comfort."
+    ]
+  },
+  "qa": [
+    {
+      "question": "Can I use these wired?",
+      "answer": "Yes. A 3.5 mm cable is included. ANC can still run while wired if the battery has charge.",
+      "meta": "8 answers · By Sony Support"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "title": "Sony WF-1000XM5 Earbuds",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=WF",
+      "stars": 5,
+      "price": 278
+    },
+    {
+      "title": "Sony Ultimate Carry Case",
+      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Case",
+      "stars": 4,
+      "price": 29.99
+    }
+  ],
+  "coupon": "Apply $30.00 coupon"
+}
