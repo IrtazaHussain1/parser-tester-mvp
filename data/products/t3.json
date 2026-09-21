@@ -12,7 +12,7 @@
     "Keyboards"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=MX%2BKeys",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=t-Brown",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2"
@@ -93,12 +93,14 @@
         {
           "value": "Gateron Brown",
           "isSelected": true,
-          "price": 89.99
+          "price": 76.49,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Brown"
         },
         {
           "value": "Gateron Red",
           "isSelected": false,
-          "price": 89.99
+          "price": 76.49,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Red"
         }
       ]
     }

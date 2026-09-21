@@ -11,7 +11,7 @@
     "Laptops"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Inspiron%2B14",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=t-XPS-32",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2"
@@ -92,12 +92,15 @@
         {
           "value": "Ultra 7 / 32GB / 1TB / RTX 4050",
           "isSelected": true,
-          "price": 1849.99
+          "price": 1572.49,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-XPS-32"
         },
         {
           "value": "Ultra 9 / 64GB / 2TB / RTX 4060",
           "isSelected": false,
-          "price": 2499.99
+          "price": 2124.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-XPS-64",
+          "availability": "In Stock"
         }
       ]
     }

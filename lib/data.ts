@@ -12,6 +12,11 @@ export function getAllProductSlugs(): string[] {
     .map((f) => f.replace(/\.json$/, ''))
 }
 
+/** Returns true when `data/products/<slug>.json` exists. */
+export function hasProductData(slug: string): boolean {
+  return fs.existsSync(path.join(PRODUCTS_DIR, `${slug}.json`))
+}
+
 export function getProductData(slug: string): ProductPage {
   const file = path.join(PRODUCTS_DIR, `${slug}.json`)
   return JSON.parse(fs.readFileSync(file, 'utf-8')) as ProductPage
@@ -22,6 +27,11 @@ export function getAllSearchSlugs(): string[] {
     .readdirSync(SEARCH_DIR)
     .filter((f) => f.endsWith('.json'))
     .map((f) => f.replace(/\.json$/, ''))
+}
+
+/** Returns true when `data/search/<slug>.json` exists. */
+export function hasSearchData(slug: string): boolean {
+  return fs.existsSync(path.join(SEARCH_DIR, `${slug}.json`))
 }
 
 export function getSearchData(slug: string): SearchPage {

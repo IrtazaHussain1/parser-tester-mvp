@@ -12,7 +12,7 @@
     "Traditional Laptops"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=XPS%2B15",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=XPS%2B32GB",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2",
@@ -66,17 +66,25 @@
         {
           "value": "Ultra 7 / 32GB / 1TB / RTX 4050",
           "isSelected": true,
-          "price": 1849.99
+          "price": 1849.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=XPS%2B32GB",
+          "listPrice": 2199.99
         },
         {
           "value": "Ultra 9 / 64GB / 2TB / RTX 4060",
           "isSelected": false,
-          "price": 2499.99
+          "price": 2499.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=XPS%2B64GB",
+          "listPrice": 2799.99,
+          "availability": "In Stock"
         },
         {
           "value": "Ultra 7 / 16GB / 512GB / iGPU",
           "isSelected": false,
-          "price": 1499.99
+          "price": 1499.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=XPS%2B16GB",
+          "listPrice": 1699.99,
+          "availability": "Only 5 left in stock"
         }
       ]
     }

@@ -12,7 +12,7 @@
     "Unlocked Cell Phones"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Pixel%2BPhone",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Obsidian",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2",
@@ -66,17 +66,24 @@
         {
           "value": "Obsidian",
           "isSelected": true,
-          "price": 699
+          "price": 699,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Obsidian",
+          "listPrice": 999
         },
         {
           "value": "Porcelain",
           "isSelected": false,
-          "price": 699
+          "price": 699,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Porcelain",
+          "listPrice": 999
         },
         {
           "value": "Bay",
           "isSelected": false,
-          "price": 699
+          "price": 729,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Bay",
+          "listPrice": 999,
+          "availability": "Only 8 left in stock"
         }
       ]
     }

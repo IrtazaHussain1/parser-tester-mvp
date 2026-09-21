@@ -11,7 +11,7 @@
     "Earbud Headphones"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=AirPods%2BPro2",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=USB-C%2BCase",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2",
@@ -65,13 +65,17 @@
         {
           "value": "USB-C Case",
           "isSelected": true,
-          "price": 189.99
+          "price": 189.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=USB-C%2BCase",
+          "listPrice": 249
         },
         {
           "value": "with MagSafe Case (Lightning)",
           "isSelected": false,
           "price": 179.99,
-          "availability": "Only 3 left"
+          "availability": "Only 3 left",
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Lightning%2BCase",
+          "listPrice": 249
         }
       ]
     }

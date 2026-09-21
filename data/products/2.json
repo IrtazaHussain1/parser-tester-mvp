@@ -12,7 +12,7 @@
     "Over-Ear Headphones"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=WH-1000XM5",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=XM5%2BBlack",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2",
@@ -66,17 +66,24 @@
         {
           "value": "Black",
           "isSelected": true,
-          "price": 328
+          "price": 328,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=XM5%2BBlack",
+          "listPrice": 399.99
         },
         {
           "value": "Silver",
           "isSelected": false,
-          "price": 328
+          "price": 328,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=XM5%2BSilver",
+          "listPrice": 399.99
         },
         {
           "value": "Midnight Blue",
           "isSelected": false,
-          "price": 348
+          "price": 348,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=XM5%2BBlue",
+          "listPrice": 419.99,
+          "availability": "In Stock"
         }
       ]
     }

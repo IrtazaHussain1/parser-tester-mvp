@@ -12,7 +12,7 @@
     "Unlocked Cell Phones"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Galaxy%2BS24",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=t-Obsidian",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2"
@@ -94,12 +94,15 @@
         {
           "value": "Obsidian",
           "isSelected": true,
-          "price": 699
+          "price": 594.15,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Obsidian"
         },
         {
           "value": "Porcelain",
           "isSelected": false,
-          "price": 699
+          "price": 594.15,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Porcelain",
+          "availability": "In Stock"
         }
       ]
     }

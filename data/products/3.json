@@ -12,7 +12,7 @@
     "Keyboards"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Keychron%2BK2",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Brown%2BSwitch",
     "thumbnails": [
       "https://placehold.co/80x80/f0f0f0/333333?text=1",
       "https://placehold.co/80x80/f0f0f0/333333?text=2",
@@ -66,17 +66,24 @@
         {
           "value": "Gateron Brown",
           "isSelected": true,
-          "price": 89.99
+          "price": 89.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Brown%2BSwitch",
+          "listPrice": 109.99
         },
         {
           "value": "Gateron Red",
           "isSelected": false,
-          "price": 89.99
+          "price": 89.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Red%2BSwitch",
+          "listPrice": 109.99
         },
         {
           "value": "Gateron Blue",
           "isSelected": false,
-          "price": 89.99
+          "price": 94.99,
+          "image": "https://placehold.co/600x600/f0f0f0/333333?text=Blue%2BSwitch",
+          "listPrice": 114.99,
+          "availability": "In Stock"
         }
       ]
     }

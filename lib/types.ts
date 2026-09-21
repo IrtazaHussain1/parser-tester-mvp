@@ -8,8 +8,13 @@ export type VariantOption = {
   value: string
   isSelected: boolean
   price?: number
+  /** Strike-through list price for this variant, when different from the base product. */
+  listPrice?: number
   availability?: string
+  /** Main gallery image shown when this variant is selected. */
   image?: string
+  /** Optional full product title override for this variant. */
+  title?: string
 }
 
 export type VariantDimension = {
