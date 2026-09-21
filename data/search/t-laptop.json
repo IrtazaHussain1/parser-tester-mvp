@@ -31,7 +31,7 @@
       "shipping": {
         "prime": true,
         "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Fri, Sep 26 · Or fastest delivery Tomorrow"
+        "estimatedDelivery": "FREE delivery Fri, Sep 26 \u00b7 Or fastest delivery Tomorrow"
       },
       "availabilityMessage": "Only 17 left in stock - order soon.",
       "badges": [
@@ -84,7 +84,7 @@
       "shipping": {
         "prime": true,
         "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Sep 27 - 28 · Or fastest delivery Mon, Sep 29"
+        "estimatedDelivery": "FREE delivery Sep 27 - 28 \u00b7 Or fastest delivery Mon, Sep 29"
       },
       "availabilityMessage": "Only 2 left in stock - order soon."
     },
@@ -105,7 +105,7 @@
       "shipping": {
         "prime": true,
         "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Sep 26 - 28 · Or fastest delivery Tomorrow"
+        "estimatedDelivery": "FREE delivery Sep 26 - 28 \u00b7 Or fastest delivery Tomorrow"
       },
       "availabilityMessage": "Only 3 left in stock - order soon."
     }
@@ -115,5 +115,39 @@
     "hasNextPage": true,
     "hasPreviousPage": false,
     "nextPageUrl": "https://www.shopfixture.test/s?k=laptop&page=2"
-  }
+  },
+  "filters": [
+    {
+      "title": "Department",
+      "options": [
+        {
+          "label": "Electronics",
+          "checked": true
+        },
+        {
+          "label": "Computers"
+        },
+        {
+          "label": "All Departments"
+        }
+      ]
+    },
+    {
+      "title": "Customer Reviews",
+      "options": [
+        {
+          "label": "4 Stars & Up"
+        },
+        {
+          "label": "3 Stars & Up"
+        }
+      ]
+    }
+  ],
+  "sortOptions": [
+    "Featured",
+    "Price: Low to High",
+    "Avg. Customer Review"
+  ],
+  "selectedSort": "Featured"
 }

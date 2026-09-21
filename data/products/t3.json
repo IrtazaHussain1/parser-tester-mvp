@@ -1,21 +1,18 @@
 {
   "slug": "t3",
-  "title": "Logitech MX Keys Mini Wireless Keyboard, Graphite — Compact Backlit Keys for Mac & Windows",
+  "title": "Logitech MX Keys Mini Wireless Keyboard, Graphite \u2014 Compact Backlit Keys for Mac & Windows",
   "brand": {
     "name": "Logitech",
     "url": "#"
   },
   "breadcrumbs": [
     "Electronics",
-    "Computers & Accessories",
-    "Computer Accessories",
     "Keyboards"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=t-Brown",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=MX%2BKeys",
     "thumbnails": [
-      "https://placehold.co/80x80/f0f0f0/333333?text=1",
-      "https://placehold.co/80x80/f0f0f0/333333?text=2"
+      "https://placehold.co/80x80/f0f0f0/333333?text=1"
     ]
   },
   "rating": {
@@ -35,90 +32,16 @@
   },
   "availability": "In Stock",
   "bullets": [
-    "Connect via Bluetooth 5.1 to three devices or use the included USB-C cable for near-zero latency gaming.",
-    "Hot-swappable sockets let you change Gateron switches without soldering — browns pre-installed for tactile typing.",
-    "Compact 75% layout keeps arrow keys and function row while freeing desk space versus full-size boards."
+    "Compact backlit wireless keyboard for Mac and Windows."
   ],
-  "description": [
-    "The Keychron K2 is a 75% wireless mechanical keyboard popular with developers who want Mac-friendly layouts without giving up Windows shortcuts."
-  ],
-  "specs": [
-    {
-      "label": "Brand",
-      "value": "Keychron"
-    },
-    {
-      "label": "Item model number",
-      "value": "K2-B3"
-    },
-    {
-      "label": "Connectivity Technology",
-      "value": "Bluetooth, USB-C"
-    },
-    {
-      "label": "Keyboard Description",
-      "value": "Mechanical"
-    }
-  ],
-  "reviews": [
-    {
-      "author": "Devan S.",
-      "stars": 5,
-      "title": "Perfect Mac + Windows desk setup",
-      "date": "August 28, 2024",
-      "body": "Side OS switch is genius. Browns feel great for long coding sessions and Bluetooth to the MBP is rock solid.",
-      "verified": true
-    },
-    {
-      "author": "Rita A.",
-      "stars": 4,
-      "title": "Good value, stock stabs rattle",
-      "date": "July 30, 2024",
-      "body": "After clipping and lubing stabs it is quiet enough for open office. Out of the box they were a bit pingy.",
-      "verified": true
-    }
-  ],
+  "description": [],
+  "specs": [],
+  "reviews": [],
   "merchant": {
     "soldBy": "ScrapeOps Demo Store",
     "fulfilledBy": "shipped by ShopFixture Logistics"
   },
   "delivery": {
-    "estimate": "Tuesday, September 22",
-    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
-  },
-  "variantOptions": [
-    {
-      "dimension": "Switch",
-      "options": [
-        {
-          "value": "Gateron Brown",
-          "isSelected": true,
-          "price": 76.49,
-          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Brown"
-        },
-        {
-          "value": "Gateron Red",
-          "isSelected": false,
-          "price": 76.49,
-          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Red"
-        }
-      ]
-    }
-  ],
-  "relatedProducts": [
-    {
-      "title": "Keychron Double-Shot PBT Keycaps",
-      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Keycaps",
-      "stars": 5,
-      "price": 34.99
-    },
-    {
-      "title": "Gateron Silent Red Switches (35)",
-      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Switches",
-      "stars": 5,
-      "price": 22.99
-    }
-  ],
-  "coupon": "Apply $8.00 coupon",
-  "promo": "Buy 2 Keychron keycaps sets, save 10%"
+    "estimate": "Tuesday"
+  }
 }

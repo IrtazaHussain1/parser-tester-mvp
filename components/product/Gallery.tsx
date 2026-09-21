@@ -4,9 +4,19 @@ import { useEffect, useState } from 'react'
 
 /**
  * Product image gallery.
- * Main image follows the selected variant (`main` prop) and can also be switched via thumbnails.
+ * Thin mode avoids Go image hooks (#landingImage, .amz-gallery__main, data-old-hires, #imgTagWrapperId).
  */
-export function Gallery({ main, thumbnails, title }: { main: string; thumbnails: string[]; title: string }) {
+export function Gallery({
+  main,
+  thumbnails,
+  title,
+  thin = false,
+}: {
+  main: string
+  thumbnails: string[]
+  title: string
+  thin?: boolean
+}) {
   const [activeSrc, setActiveSrc] = useState(main)
 
   useEffect(() => {
@@ -14,6 +24,16 @@ export function Gallery({ main, thumbnails, title }: { main: string; thumbnails:
   }, [main])
 
   const thumbs = thumbnails.includes(main) ? thumbnails : [main, ...thumbnails]
+
+  if (thin) {
+    return (
+      <div className="col-images">
+        <div className="sf-gallery">
+          <img className="sf-gallery__main" src={activeSrc} alt={title} />
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="col-images">

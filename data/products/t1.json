@@ -1,25 +1,22 @@
 {
   "slug": "t1",
-  "title": "Samsung Galaxy S24 Unlocked Android Smartphone, 128GB, Onyx Black — AI Photo Assist, 6.2\" Dynamic AMOLED",
+  "title": "Samsung Galaxy S24 Unlocked Android Smartphone, 128GB, Onyx Black \u2014 AI Photo Assist, 6.2\" Dynamic AMOLED",
   "brand": {
     "name": "Samsung",
     "url": "#"
   },
   "breadcrumbs": [
     "Electronics",
-    "Cell Phones & Accessories",
-    "Cell Phones",
-    "Unlocked Cell Phones"
+    "Cell Phones"
   ],
   "images": {
     "main": "https://placehold.co/600x600/f0f0f0/333333?text=t-Obsidian",
     "thumbnails": [
-      "https://placehold.co/80x80/f0f0f0/333333?text=1",
-      "https://placehold.co/80x80/f0f0f0/333333?text=2"
+      "https://placehold.co/80x80/f0f0f0/333333?text=1"
     ]
   },
   "rating": {
-    "stars": 4.3999999999999995,
+    "stars": 4.4,
     "count": 4605,
     "histogram": [
       72,
@@ -31,105 +28,20 @@
   },
   "price": {
     "current": 594.15,
-    "currency": "USD",
-    "list": 999
+    "currency": "USD"
   },
   "availability": "In Stock",
   "bullets": [
-    "Google Tensor G3 delivers on-device AI for Magic Eraser, Call Screen, and Live Translate without sending your data to the cloud.",
-    "6.7\" LTPO OLED display at up to 120 Hz with Corning Gorilla Glass Victus 2 for smooth scrolling and outdoor brightness.",
-    "Triple rear camera system: 50 MP wide, 48 MP ultrawide (macro), and 48 MP telephoto with 5x optical zoom."
+    "6.2\" Dynamic AMOLED display with AI photo assist tools."
   ],
-  "description": [
-    "Pixel 8 Pro is Google's flagship unlocked smartphone built around the Tensor G3 chip and a pro-grade camera system. The 6.7-inch LTPO OLED panel adapts refresh rate from 1–120 Hz to balance smoothness and battery life."
-  ],
-  "specs": [
-    {
-      "label": "Brand",
-      "value": "Google"
-    },
-    {
-      "label": "Item model number",
-      "value": "GA04864-US"
-    },
-    {
-      "label": "Wireless carrier",
-      "value": "Unlocked"
-    },
-    {
-      "label": "Operating system",
-      "value": "Android 14"
-    }
-  ],
-  "reviews": [
-    {
-      "author": "Alex R.",
-      "stars": 5,
-      "title": "Best camera phone I have owned",
-      "date": "August 12, 2024",
-      "body": "Night Sight and the telephoto zoom are excellent. Battery easily lasts a full workday with 5G on. Unlocked activation on T-Mobile took under ten minutes.",
-      "verified": true
-    },
-    {
-      "author": "Priya K.",
-      "stars": 4,
-      "title": "Great phone, warm under load",
-      "date": "July 2, 2024",
-      "body": "Display and speakers are first-class. It can get warm during 4K video, but nothing alarming. Happy I skipped carrier bloatware by buying unlocked.",
-      "verified": true
-    }
-  ],
+  "description": [],
+  "specs": [],
+  "reviews": [],
   "merchant": {
     "soldBy": "ScrapeOps Demo Store",
     "fulfilledBy": "shipped by ShopFixture Logistics"
   },
   "delivery": {
-    "estimate": "Tomorrow, September 19",
-    "freeShippingNote": "FREE delivery on orders over $35 shipped by ShopFixture"
-  },
-  "variantOptions": [
-    {
-      "dimension": "Color",
-      "options": [
-        {
-          "value": "Obsidian",
-          "isSelected": true,
-          "price": 594.15,
-          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Obsidian"
-        },
-        {
-          "value": "Porcelain",
-          "isSelected": false,
-          "price": 594.15,
-          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-Porcelain",
-          "availability": "In Stock"
-        }
-      ]
-    }
-  ],
-  "compareTitle": "Compare with similar items",
-  "compareColumns": [
-    "This item\nPixel 8 Pro 128GB",
-    "Pixel 8\n128GB",
-    "Samsung Galaxy S24\n128GB"
-  ],
-  "compareRows": [
-    {
-      "label": "Price",
-      "values": [
-        "$699.00",
-        "$499.00",
-        "$649.00"
-      ]
-    },
-    {
-      "label": "Display",
-      "values": [
-        "6.7\" LTPO OLED",
-        "6.2\" OLED",
-        "6.2\" Dynamic AMOLED"
-      ]
-    }
-  ],
-  "promo": "Save 15% when you buy any Google case"
+    "estimate": "Tomorrow"
+  }
 }

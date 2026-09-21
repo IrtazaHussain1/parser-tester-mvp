@@ -40,8 +40,10 @@ function titleForVariant(baseTitle: string, selectedValue?: string, variantTitle
 /**
  * Interactive product detail page.
  * Selecting a variant updates price, availability, gallery image, and title when those fields exist on the option.
+ * Thin testing fixtures (no reviews + no specs) drop Go extractor class/id hooks so coverage falls under threshold.
  */
 export function ProductPage({ data }: { data: ProductPageData }) {
+  const thin = data.reviews.length === 0 && data.specs.length === 0
   const dimension = data.variantOptions?.[0]
   const initialOption = dimension?.options.find((o) => o.isSelected) ?? dimension?.options[0]
   const [selectedValue, setSelectedValue] = useState<string | undefined>(initialOption?.value)
@@ -59,9 +61,14 @@ export function ProductPage({ data }: { data: ProductPageData }) {
     <>
       <SiteHeader />
       <div className="amz-page">
-        <Breadcrumbs items={data.breadcrumbs} />
+        <Breadcrumbs items={data.breadcrumbs} thin={thin} />
         <div className="amz-pdp">
-          <Gallery main={displayMainImage} thumbnails={data.images.thumbnails} title={displayTitle} />
+          <Gallery
+            main={displayMainImage}
+            thumbnails={data.images.thumbnails}
+            title={displayTitle}
+            thin={thin}
+          />
 
           <div className="col-center">
             <TitleBlock
@@ -69,15 +76,20 @@ export function ProductPage({ data }: { data: ProductPageData }) {
               brandName={data.brand.name}
               brandUrl={data.brand.url}
               rating={data.rating}
+              thin={thin}
             />
 
             <hr className="amz-divider" />
-            <div className="amz-price-inline" data-variant-price={displayPrice}>
-              <span className="symbol">$</span>
-              {displayPrice.toFixed(2)}
-            </div>
+            {thin ? (
+              <div className="sf-pdp-price">{displayPrice.toFixed(2)}</div>
+            ) : (
+              <div className="amz-price-inline" data-variant-price={displayPrice}>
+                <span className="symbol">$</span>
+                {displayPrice.toFixed(2)}
+              </div>
+            )}
 
-            {dimension && (
+            {!thin && dimension && (
               <div className="amz-variant-row">
                 <span className="a-size-base a-color-secondary amz-variant-row__label">
                   {dimension.dimension}: <span data-field="selected-variant">{selectedOption?.value}</span>
@@ -131,114 +143,130 @@ export function ProductPage({ data }: { data: ProductPageData }) {
             )}
 
             <hr className="amz-divider" />
-            <Bullets items={data.bullets} />
-            <Description paragraphs={data.description} aplus={data.aplus} />
+            {data.bullets.length > 0 && <Bullets items={data.bullets} thin={thin} />}
+            {!thin && (data.description.length > 0 || data.aplus) && (
+              <Description paragraphs={data.description} aplus={data.aplus} />
+            )}
           </div>
 
-          <div className="col-buybox amz-buybox" id="buybox">
-            <div id="corePriceDisplay_desktop_feature_div">
-              <span
-                className="a-price aok-align-center reinventPricePriceToPayMargin priceToPay price-current"
-                data-a-size="xl"
-                data-a-color="base"
-              >
-                <span className="a-offscreen">${displayPrice.toFixed(2)}</span>
-                <span aria-hidden="true">
-                  <span className="a-price-symbol symbol">$</span>
-                  <span className="a-price-whole">{wholePart}</span>
-                  <span className="a-price-decimal">.</span>
-                  <span className="a-price-fraction">{fractionPart}</span>
-                </span>
-              </span>
-              {displayListPrice != null && (
-                <span className="a-price a-text-price price-strike" data-a-strike="true">
-                  <span className="a-offscreen">${displayListPrice.toFixed(2)}</span>
-                  <span aria-hidden="true">List: ${displayListPrice.toFixed(2)}</span>
-                </span>
-              )}
-            </div>
+          <div className="col-buybox amz-buybox" id={thin ? undefined : 'buybox'}>
+            {thin ? (
+              <>
+                <div className="sf-pdp-buybox-price">{displayPrice.toFixed(2)}</div>
+                <div className="sf-pdp-stock">{displayAvailability}</div>
+                <div className="sf-pdp-ship">{data.delivery.estimate}</div>
+                <div className="sf-pdp-seller">{data.merchant.soldBy}</div>
+              </>
+            ) : (
+              <>
+                <div id="corePriceDisplay_desktop_feature_div">
+                  <span
+                    className="a-price aok-align-center reinventPricePriceToPayMargin priceToPay price-current"
+                    data-a-size="xl"
+                    data-a-color="base"
+                  >
+                    <span className="a-offscreen">${displayPrice.toFixed(2)}</span>
+                    <span aria-hidden="true">
+                      <span className="a-price-symbol symbol">$</span>
+                      <span className="a-price-whole">{wholePart}</span>
+                      <span className="a-price-decimal">.</span>
+                      <span className="a-price-fraction">{fractionPart}</span>
+                    </span>
+                  </span>
+                  {displayListPrice != null && (
+                    <span className="a-price a-text-price price-strike" data-a-strike="true">
+                      <span className="a-offscreen">${displayListPrice.toFixed(2)}</span>
+                      <span aria-hidden="true">List: ${displayListPrice.toFixed(2)}</span>
+                    </span>
+                  )}
+                </div>
 
-            {data.coupon && (
-              <div id="couponsInBuybox_feature_div" className="promoPriceBlockMessage amz-coupon">
-                ☑ {data.coupon}
-              </div>
+                {data.coupon && (
+                  <div id="couponsInBuybox_feature_div" className="promoPriceBlockMessage amz-coupon">
+                    ☑ {data.coupon}
+                  </div>
+                )}
+                {data.promo && (
+                  <div data-csa-c-owner="PromotionsDiscovery" data-csa-c-item-id="promo-1" className="amz-promo">
+                    <label>Promotion</label>
+                    <div id="promoMessage1">{data.promo}</div>
+                  </div>
+                )}
+
+                <div id="availability" className="amz-availability">
+                  <span className="a-size-medium a-color-success">{displayAvailability}</span>
+                </div>
+
+                <div id="deliveryBlockMessage" className="amz-delivery">
+                  <span data-csa-c-delivery-time={data.delivery.estimate}>
+                    Delivery <b>{data.delivery.estimate}</b>
+                  </span>
+                </div>
+                {data.delivery.freeShippingNote && (
+                  <div id="mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE" className="amz-delivery">
+                    <span data-csa-c-delivery-condition="Free Shipping">{data.delivery.freeShippingNote}</span>
+                  </div>
+                )}
+
+                <div className="a-box-inner" style={{ marginTop: 12 }}>
+                  <input
+                    type="submit"
+                    id="add-to-cart-button"
+                    name="submit.add-to-cart"
+                    className="a-button-input btn btn-cart"
+                    value="Add to Cart"
+                    readOnly
+                  />
+                  <input
+                    type="submit"
+                    id="buy-now-button"
+                    name="submit.buy-now"
+                    className="a-button-input btn btn-buy"
+                    value="Buy Now"
+                    readOnly
+                  />
+                </div>
+
+                <div className="amz-secure">🔒 Secure transaction</div>
+
+                {data.climatePledge && <ClimatePledgeBadge data={data.climatePledge} />}
+
+                <div id="merchant-info" className="amz-merchant">
+                  Sold by <a href="#">{data.merchant.soldBy}</a> and {data.merchant.fulfilledBy}.
+                </div>
+              </>
             )}
-            {data.promo && (
-              <div data-csa-c-owner="PromotionsDiscovery" data-csa-c-item-id="promo-1" className="amz-promo">
-                <label>Promotion</label>
-                <div id="promoMessage1">{data.promo}</div>
-              </div>
-            )}
-
-            <div id="availability" className="amz-availability">
-              <span className="a-size-medium a-color-success">{displayAvailability}</span>
-            </div>
-
-            <div id="deliveryBlockMessage" className="amz-delivery">
-              <span data-csa-c-delivery-time={data.delivery.estimate}>
-                Delivery <b>{data.delivery.estimate}</b>
-              </span>
-            </div>
-            {data.delivery.freeShippingNote && (
-              <div id="mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE" className="amz-delivery">
-                <span data-csa-c-delivery-condition="Free Shipping">{data.delivery.freeShippingNote}</span>
-              </div>
-            )}
-
-            <div className="a-box-inner" style={{ marginTop: 12 }}>
-              <input
-                type="submit"
-                id="add-to-cart-button"
-                name="submit.add-to-cart"
-                className="a-button-input btn btn-cart"
-                value="Add to Cart"
-                readOnly
-              />
-              <input
-                type="submit"
-                id="buy-now-button"
-                name="submit.buy-now"
-                className="a-button-input btn btn-buy"
-                value="Buy Now"
-                readOnly
-              />
-            </div>
-
-            <div className="amz-secure">🔒 Secure transaction</div>
-
-            {data.climatePledge && <ClimatePledgeBadge data={data.climatePledge} />}
-
-            <div id="merchant-info" className="amz-merchant">
-              Sold by <a href="#">{data.merchant.soldBy}</a> and {data.merchant.fulfilledBy}.
-            </div>
           </div>
         </div>
 
-        {data.customersSay && <CustomersSay data={data.customersSay} />}
+        {!thin && data.customersSay && <CustomersSay data={data.customersSay} />}
 
-        {data.frequentlyBoughtTogether && (
+        {!thin && data.frequentlyBoughtTogether && (
           <FrequentlyBoughtTogether data={data.frequentlyBoughtTogether} />
         )}
 
-        {data.videos && data.videos.length > 0 && <ProductVideos videos={data.videos} />}
+        {!thin && data.videos && data.videos.length > 0 && <ProductVideos videos={data.videos} />}
 
-        <SpecsTable
-          specs={data.specs}
-          manufacturer={data.brand.name}
-          weight={data.specs.find((s) => s.label === 'Item Weight')?.value ?? ''}
-          ratingStars={data.rating.stars}
-        />
+        {data.specs.length > 0 && (
+          <SpecsTable
+            specs={data.specs}
+            manufacturer={data.brand.name}
+            weight={data.specs.find((s) => s.label === 'Item Weight')?.value ?? ''}
+            ratingStars={data.rating.stars}
+          />
+        )}
 
-        {data.compareTitle && data.compareColumns && data.compareRows && (
+        {!thin && data.compareTitle && data.compareColumns && data.compareRows && (
           <CompareTable title={data.compareTitle} columns={data.compareColumns} rows={data.compareRows} />
         )}
 
-        <Reviews rating={data.rating} reviews={data.reviews} />
-        {data.qa && <QA items={data.qa} />}
-        {data.relatedProducts && <RelatedProducts items={data.relatedProducts} />}
-        {data.sellerDetail && <SellerDetail data={data.sellerDetail} />}
+        {data.reviews.length > 0 && <Reviews rating={data.rating} reviews={data.reviews} />}
+        {!thin && data.qa && <QA items={data.qa} />}
+        {!thin && data.relatedProducts && <RelatedProducts items={data.relatedProducts} />}
+        {!thin && data.sellerDetail && <SellerDetail data={data.sellerDetail} />}
       </div>
       <SiteFooter />
     </>
   )
 }
+

@@ -1,125 +1,12 @@
 {
   "slug": "t-headphones",
   "searchMetadata": {
-    "query": "headphones",
-    "totalResults": 10000,
-    "resultsDisplayed": 4,
-    "searchUrl": "https://www.shopfixture.test/s?k=headphones",
-    "searchType": "keyword"
+    "query": "headphones"
   },
   "products": [
     {
-      "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones, Black — 30 Hour Battery, Multipoint",
-      "productId": "B0HDP0001",
-      "url": "https://www.shopfixture.test/dp/B0HDP0001",
-      "brand": "Sony",
-      "price": 328,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Sony%20WH-1000XM5%20Wireless%20Noi",
-          "altText": "Sony WH-1000XM5 Wireless Noise Canceling Headphones, Black — 30 Hour Battery, Multipoint"
-        }
-      ],
-      "availability": "in_stock",
-      "preDiscountPrice": 399.99,
-      "aggregateRating": {
-        "ratingValue": 4.7,
-        "reviewCount": 31204,
-        "bestPossibleRating": 5,
-        "worstPossibleRating": 1
-      },
-      "shipping": {
-        "prime": true,
-        "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Tomorrow"
-      },
-      "badges": [
-        {
-          "type": "bestseller",
-          "label": "Best Seller"
-        }
-      ]
-    },
-    {
-      "name": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones, Black — Immersive Audio",
-      "productId": "B0HDP0002",
-      "url": "https://www.shopfixture.test/dp/B0HDP0002",
-      "price": 429,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Bose%20QuietComfort%20Ultra%20Wire",
-          "altText": "Bose QuietComfort Ultra Wireless Noise Cancelling Headphones, Black — Immersive Audio"
-        }
-      ],
-      "availability": "in_stock",
-      "preDiscountPrice": 449,
-      "aggregateRating": {
-        "ratingValue": 4.4,
-        "reviewCount": 8901,
-        "bestPossibleRating": 5,
-        "worstPossibleRating": 1
-      },
-      "shipping": {
-        "prime": true,
-        "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Tomorrow"
-      }
-    },
-    {
-      "name": "Apple AirPods Max Wireless Over-Ear Headphones, Space Gray — Active Noise Cancellation",
-      "productId": "B0HDP0003",
-      "url": "https://www.shopfixture.test/dp/B0HDP0003",
-      "brand": "Apple",
-      "price": 499,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20AirPods%20Max%20Wireless%20O",
-          "altText": "Apple AirPods Max Wireless Over-Ear Headphones, Space Gray — Active Noise Cancellation"
-        }
-      ],
-      "availability": "in_stock"
-    },
-    {
-      "name": "Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones — 40 Hour Playtime",
-      "productId": "B0HDP0004",
-      "url": "https://www.shopfixture.test/dp/B0HDP0004",
-      "brand": "Soundcore",
-      "price": 69.99,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Soundcore%20by%20Anker%20Life%20Q30%20",
-          "altText": "Soundcore by Anker Life Q30 Hybrid Active Noise Cancelling Headphones — 40 Hour Playtime"
-        }
-      ],
-      "availability": "in_stock",
-      "preDiscountPrice": 79.99,
-      "aggregateRating": {
-        "ratingValue": 4.5,
-        "reviewCount": 98211,
-        "bestPossibleRating": 5,
-        "worstPossibleRating": 1
-      },
-      "shipping": {
-        "prime": true,
-        "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Tomorrow"
-      },
-      "badges": [
-        {
-          "type": "choice",
-          "label": "Amazon's Choice"
-        }
-      ]
+      "name": "Bose QuietComfort Ultra Wireless Headphones, Black",
+      "url": "https://www.shopfixture.test/dp/B0HDP0001"
     }
-  ],
-  "pagination": {
-    "currentPage": 1,
-    "hasNextPage": true,
-    "hasPreviousPage": false,
-    "nextPageUrl": "https://www.shopfixture.test/s?k=headphones&page=2"
-  }
+  ]
 }

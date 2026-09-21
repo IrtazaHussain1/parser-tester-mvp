@@ -1,119 +1,12 @@
 {
   "slug": "t-earbuds",
   "searchMetadata": {
-    "query": "earbuds",
-    "totalResults": 16000,
-    "resultsDisplayed": 4,
-    "searchUrl": "https://www.shopfixture.test/s?k=earbuds",
-    "searchType": "keyword"
+    "query": "earbuds"
   },
   "products": [
     {
-      "name": "Apple AirPods Pro (2nd Generation) Wireless Earbuds with USB-C Charging Case, Active Noise Cancellation",
-      "productId": "B0EAR0001",
-      "url": "https://www.shopfixture.test/dp/B0EAR0001",
-      "brand": "Apple",
-      "price": 189.99,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Apple%20AirPods%20Pro%20(2nd%20Gener",
-          "altText": "Apple AirPods Pro (2nd Generation) Wireless Earbuds with USB-C Charging Case, Active Noise Cancellation"
-        }
-      ],
-      "availability": "in_stock",
-      "preDiscountPrice": 249,
-      "aggregateRating": {
-        "ratingValue": 4.7,
-        "reviewCount": 58201,
-        "bestPossibleRating": 5,
-        "worstPossibleRating": 1
-      },
-      "shipping": {
-        "prime": true,
-        "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Tomorrow"
-      },
-      "badges": [
-        {
-          "type": "bestseller",
-          "label": "Best Seller"
-        }
-      ]
-    },
-    {
-      "name": "Sony WF-1000XM5 Wireless Noise Canceling Earbuds, Black — LDAC, Multipoint, IPX4",
-      "productId": "B0EAR0002",
-      "url": "https://www.shopfixture.test/dp/B0EAR0002",
-      "price": 278,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Sony%20WF-1000XM5%20Wireless%20Noi",
-          "altText": "Sony WF-1000XM5 Wireless Noise Canceling Earbuds, Black — LDAC, Multipoint, IPX4"
-        }
-      ],
-      "availability": "in_stock",
-      "preDiscountPrice": 299.99,
-      "aggregateRating": {
-        "ratingValue": 4.6,
-        "reviewCount": 11204,
-        "bestPossibleRating": 5,
-        "worstPossibleRating": 1
-      },
-      "shipping": {
-        "prime": true,
-        "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Tomorrow"
-      }
-    },
-    {
-      "name": "Samsung Galaxy Buds FE Wireless Earbuds, Graphite — ANC, 30-Hour Battery with Case",
-      "productId": "B0EAR0003",
-      "url": "https://www.shopfixture.test/dp/B0EAR0003",
-      "brand": "Samsung",
-      "price": 69.99,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Samsung%20Galaxy%20Buds%20FE%20Wirel",
-          "altText": "Samsung Galaxy Buds FE Wireless Earbuds, Graphite — ANC, 30-Hour Battery with Case"
-        }
-      ],
-      "availability": "in_stock"
-    },
-    {
-      "name": "Bose QuietComfort Ultra Earbuds, Black — Immersive Audio, ANC, IPX4",
-      "productId": "B0EAR0004",
-      "url": "https://www.shopfixture.test/dp/B0EAR0004",
-      "brand": "Bose",
-      "price": 249,
-      "currency": "USD",
-      "images": [
-        {
-          "url": "https://placehold.co/220x180/f0f0f0/333333?text=Bose%20QuietComfort%20Ultra%20Earb",
-          "altText": "Bose QuietComfort Ultra Earbuds, Black — Immersive Audio, ANC, IPX4"
-        }
-      ],
-      "availability": "in_stock",
-      "preDiscountPrice": 299,
-      "aggregateRating": {
-        "ratingValue": 4.3,
-        "reviewCount": 6210,
-        "bestPossibleRating": 5,
-        "worstPossibleRating": 1
-      },
-      "shipping": {
-        "prime": true,
-        "freeShipping": true,
-        "estimatedDelivery": "FREE delivery Wed, Sep 24"
-      }
+      "name": "Samsung Galaxy Buds FE Wireless Earbuds, Graphite",
+      "url": "https://www.shopfixture.test/dp/B0EBD0001"
     }
-  ],
-  "pagination": {
-    "currentPage": 1,
-    "hasNextPage": true,
-    "hasPreviousPage": false,
-    "nextPageUrl": "https://www.shopfixture.test/s?k=earbuds&page=2"
-  }
+  ]
 }

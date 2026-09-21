@@ -19,6 +19,28 @@ export function ResultCard({ product }: { product: SearchProduct }) {
   const wholePart = product.price != null ? Math.floor(product.price) : undefined
   const fractionPart = product.price != null ? product.price.toFixed(2).split('.')[1] : undefined
   const currencySymbol = product.currency === 'USD' || !product.currency ? '$' : `${product.currency} `
+  /**
+   * Full cards keep parser hooks (`.amz-result-card`, `.s-result-item`, …).
+   * Thin testing cards must NOT use those classes — the Go extractor fills
+   * availability/currency/shipping/variants with defaults for every match,
+   * which keeps coverage ~84% even with almost no content.
+   */
+  const isFullCard =
+    product.price != null ||
+    product.preDiscountPrice != null ||
+    Boolean(rating) ||
+    Boolean(product.shipping) ||
+    Boolean(product.badges?.length)
+
+  if (!isFullCard) {
+    return (
+      <div className="sf-hit">
+        <a className="sf-hit__link" href={product.url}>
+          {product.name}
+        </a>
+      </div>
+    )
+  }
 
   return (
     <div
@@ -27,18 +49,18 @@ export function ResultCard({ product }: { product: SearchProduct }) {
       data-asin={product.productId}
       data-sponsored={product.isSponsored ? 'true' : undefined}
     >
-      <div className="amz-result-card__image">
-        {primaryImage && (
+      {primaryImage && (
+        <div className="amz-result-card__image">
           <img className="s-image" src={primaryImage.url} alt={primaryImage.altText ?? product.name} />
-        )}
-        {product.additionalImages && product.additionalImages.length > 0 && (
-          <div className="amz-result-card__extra-images" aria-hidden="true">
-            {product.additionalImages.slice(0, 3).map((img) => (
-              <img key={img.url} src={img.url} alt={img.altText ?? ''} />
-            ))}
-          </div>
-        )}
-      </div>
+          {product.additionalImages && product.additionalImages.length > 0 && (
+            <div className="amz-result-card__extra-images" aria-hidden="true">
+              {product.additionalImages.slice(0, 3).map((img) => (
+                <img key={img.url} src={img.url} alt={img.altText ?? ''} />
+              ))}
+            </div>
+          )}
+        </div>
+      )}
       <div className="amz-result-card__body">
         {product.isSponsored && <span className="amz-sponsored">Sponsored</span>}
         {product.badges?.map((badge) => (
@@ -104,36 +126,39 @@ export function ResultCard({ product }: { product: SearchProduct }) {
             })}
           </ul>
         )}
-        <div className="amz-result-card__price" data-field="price">
-          {product.price != null && (
-            <span className="a-price" data-a-color="base" data-currency={product.currency ?? 'USD'}>
-              <span className="a-offscreen">
-                {currencySymbol}
-                {product.price.toFixed(2)}
+        {/* Only emit price DOM when a price exists — empty wrappers inflate parser coverage. */}
+        {(product.price != null || product.preDiscountPrice != null || product.priceRange) && (
+          <div className="amz-result-card__price" data-field="price">
+            {product.price != null && (
+              <span className="a-price" data-a-color="base" data-currency={product.currency ?? 'USD'}>
+                <span className="a-offscreen">
+                  {currencySymbol}
+                  {product.price.toFixed(2)}
+                </span>
+                <span aria-hidden="true">
+                  <span className="a-price-symbol">{currencySymbol}</span>
+                  <span className="a-price-whole">{wholePart}</span>
+                  <span className="a-price-fraction">{fractionPart}</span>
+                </span>
               </span>
-              <span aria-hidden="true">
-                <span className="a-price-symbol">{currencySymbol}</span>
-                <span className="a-price-whole">{wholePart}</span>
-                <span className="a-price-fraction">{fractionPart}</span>
+            )}
+            {product.preDiscountPrice != null && (
+              <span
+                className="a-price a-text-price price-strike amz-result-card__price-strike"
+                data-a-strike="true"
+                data-field="preDiscountPrice"
+              >
+                <span className="a-offscreen">${product.preDiscountPrice.toFixed(2)}</span>
+                <span aria-hidden="true">${product.preDiscountPrice.toFixed(2)}</span>
               </span>
-            </span>
-          )}
-          {product.preDiscountPrice != null && (
-            <span
-              className="a-price a-text-price price-strike amz-result-card__price-strike"
-              data-a-strike="true"
-              data-field="preDiscountPrice"
-            >
-              <span className="a-offscreen">${product.preDiscountPrice.toFixed(2)}</span>
-              <span aria-hidden="true">${product.preDiscountPrice.toFixed(2)}</span>
-            </span>
-          )}
-          {product.priceRange && (
-            <span className="amz-result-card__price-range" data-field="priceRange">
-              ${product.priceRange.minPrice.toFixed(2)} – ${product.priceRange.maxPrice.toFixed(2)}
-            </span>
-          )}
-        </div>
+            )}
+            {product.priceRange && (
+              <span className="amz-result-card__price-range" data-field="priceRange">
+                ${product.priceRange.minPrice.toFixed(2)} – ${product.priceRange.maxPrice.toFixed(2)}
+              </span>
+            )}
+          </div>
+        )}
         {product.promotions?.map((promo) => (
           <div className="amz-result-card__promo" data-field="promotions" key={promo.description}>
             {promo.description}

@@ -1,20 +1,18 @@
 {
   "slug": "t5",
-  "title": "Dell Inspiron 14 Laptop, 14\" FHD, Intel Core i5, 16GB RAM, 512GB SSD, Windows 11 Home — Silver",
+  "title": "Dell Inspiron 14 Laptop, 14\" FHD, Intel Core i5, 16GB RAM, 512GB SSD, Windows 11 Home \u2014 Silver",
   "brand": {
     "name": "Dell",
     "url": "#"
   },
   "breadcrumbs": [
     "Electronics",
-    "Computers & Accessories",
     "Laptops"
   ],
   "images": {
-    "main": "https://placehold.co/600x600/f0f0f0/333333?text=t-XPS-32",
+    "main": "https://placehold.co/600x600/f0f0f0/333333?text=Inspiron",
     "thumbnails": [
-      "https://placehold.co/80x80/f0f0f0/333333?text=1",
-      "https://placehold.co/80x80/f0f0f0/333333?text=2"
+      "https://placehold.co/80x80/f0f0f0/333333?text=1"
     ]
   },
   "rating": {
@@ -29,96 +27,21 @@
     ]
   },
   "price": {
-    "current": 1572.49,
-    "currency": "USD",
-    "list": 2199.99
+    "current": 699.0,
+    "currency": "USD"
   },
   "availability": "In Stock",
   "bullets": [
-    "15.6\" 3.5K OLED InfinityEdge touch display with 400 nit typical brightness and Dolby Vision support.",
-    "Intel Core Ultra 7 processor with NPU for Windows Studio Effects and local AI assistive features.",
-    "32GB LPDDR5x RAM and 1TB PCIe NVMe SSD for large photo libraries and multitrack video projects."
+    "14\" FHD laptop with Intel Core i5, 16GB RAM, and 512GB SSD."
   ],
-  "description": [
-    "The XPS 15 targets creators who want a portable OLED canvas without jumping to a 17-inch workstation. The InfinityEdge panel is sharp for photo retouching and HDR video review."
-  ],
-  "specs": [
-    {
-      "label": "Brand",
-      "value": "Dell"
-    },
-    {
-      "label": "Item model number",
-      "value": "XPS9550-AI"
-    },
-    {
-      "label": "Screen Size",
-      "value": "15.6 Inches"
-    },
-    {
-      "label": "Computer Memory Size",
-      "value": "32 GB"
-    }
-  ],
-  "reviews": [
-    {
-      "author": "Tara N.",
-      "stars": 5,
-      "title": "OLED is stunning for Lightroom",
-      "date": "August 30, 2024",
-      "body": "Color is vivid and blacks are truly black. Fans stay quiet during photo edits; they spin up under Premiere exports as expected.",
-      "verified": true
-    },
-    {
-      "author": "Keith D.",
-      "stars": 4,
-      "title": "Powerful but needs the 130W brick when docking",
-      "date": "July 17, 2024",
-      "body": "USB-C charging works for light work. Under GPU load you want the full adapter or a high-wattage Thunderbolt dock.",
-      "verified": true
-    }
-  ],
+  "description": [],
+  "specs": [],
+  "reviews": [],
   "merchant": {
     "soldBy": "ScrapeOps Demo Store",
     "fulfilledBy": "shipped by ShopFixture Logistics"
   },
   "delivery": {
-    "estimate": "Wednesday, September 24"
-  },
-  "variantOptions": [
-    {
-      "dimension": "Configuration",
-      "options": [
-        {
-          "value": "Ultra 7 / 32GB / 1TB / RTX 4050",
-          "isSelected": true,
-          "price": 1572.49,
-          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-XPS-32"
-        },
-        {
-          "value": "Ultra 9 / 64GB / 2TB / RTX 4060",
-          "isSelected": false,
-          "price": 2124.99,
-          "image": "https://placehold.co/600x600/f0f0f0/333333?text=t-XPS-64",
-          "availability": "In Stock"
-        }
-      ]
-    }
-  ],
-  "relatedProducts": [
-    {
-      "title": "Dell Thunderbolt Dock WD22TB4",
-      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Dock",
-      "stars": 4,
-      "price": 249.99
-    },
-    {
-      "title": "Dell Premier Sleeve 15",
-      "image": "https://placehold.co/200x200/f0f0f0/333333?text=Sleeve",
-      "stars": 4,
-      "price": 49.99
-    }
-  ],
-  "coupon": "Apply $100.00 coupon",
-  "promo": "Get 6 months Microsoft 365 Personal included"
+    "estimate": "Wednesday"
+  }
 }
